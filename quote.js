@@ -1,0 +1,13 @@
+(()=>{
+const form=document.getElementById('product-inquiry');if(!form)return;
+const es=document.documentElement.lang.toLowerCase().startsWith('es'),lang=es?'es':'en';
+const sticky=document.getElementById('sticky-quote'),quick=document.querySelector('.configuration-quote'),config=document.getElementById('product-configurator'),custom=document.getElementById('custom-configuration');
+const data=JSON.parse(document.getElementById('configuration-data')?.textContent||'[]');
+function link(){const d=new FormData(form);let text=(es?'Hola Frank, quisiera cotizar: ':'Hello Frank, please quote: ')+form.dataset.product;const labels=es?['Medida / modelo','Material / grano / alambre','Montaje y equipo','Cantidad','Destino','Incoterm','Empaque']:['Size / model','Material / grit / wire','Mount and equipment','Quantity','Destination','Trade term','Packaging'];['size','material','mount','quantity','destination','term','packaging'].forEach((key,i)=>{if(d.get(key))text+='\n'+labels[i]+': '+d.get(key)});return 'https://wa.me/8619883954016?text='+encodeURIComponent(text)}
+function update(){const url=link();if(sticky)sticky.href=url;if(quick)quick.href=url}
+function details(choice){const box=config.querySelector('.selected-specifications');box.replaceChildren();if(!choice){const p=document.createElement('p');p.textContent=es?'Consulta a Frank para confirmar la medida y el modelo.':'Ask Frank to confirm the size and model.';box.append(p);return}const table=document.createElement('table');table.className='spec-table';for(const row of choice.rows){const tr=document.createElement('tr'),th=document.createElement('th'),td=document.createElement('td');th.scope='row';th.textContent=row[lang][0];td.textContent=row[lang][1];tr.append(th,td);table.append(tr)}box.append(table)}
+config?.addEventListener('change',e=>{if(e.target.name!=='configuration')return;const choice=data[Number(e.target.value)];form.elements.size.value=choice?choice[lang]:(custom.value.trim()||(es?'Consulta a Frank':'Ask Frank'));custom.value='';details(choice);update()});
+custom?.addEventListener('input',()=>{config.querySelector('input[value="custom"]').checked=true;form.elements.size.value=custom.value.trim()||(es?'Consulta a Frank':'Ask Frank');details(null);update()});
+form.addEventListener('input',e=>{if(e.target.name==='size'&&config){config.querySelectorAll('input[name="configuration"]').forEach(r=>r.checked=false);custom.value=e.target.value;details(null)}update()});
+form.addEventListener('change',update);form.addEventListener('submit',e=>{e.preventDefault();window.open(link(),'_blank','noopener')});update();
+})();

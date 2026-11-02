@@ -1,0 +1,868 @@
+{
+  "1": {
+    "source": "https://yekaiabrasives.com/en/products/abrasive-filament-wheel-brushes/",
+    "description": {
+      "en": "Abrasive filament brushes in wheel, cup and shank-mounted forms. Select the brush shape first, then confirm diameter, grit and mounting for your finishing process.",
+      "es": "Cepillos de filamento abrasivo en formato circular, de copa y con vástago. Selecciona la forma y confirma diámetro, grano y montaje para tu proceso de acabado."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Brush forms",
+          "Radial wheel, cup, shank-mounted wheel and shank-mounted cup."
+        ],
+        "es": [
+          "Formas",
+          "Disco radial, copa, disco con vástago y copa con vástago."
+        ]
+      },
+      {
+        "en": [
+          "Catalog outside diameters",
+          "Wheel: 75–200 mm; cup: 75–125 mm; mounted wheel: 38–100 mm; mounted cup: 40–80 mm. See individual models below."
+        ],
+        "es": [
+          "Diámetros del catálogo",
+          "Disco: 75–200 mm; copa: 75–125 mm; disco con vástago: 38–100 mm; copa con vástago: 40–80 mm. Consulta los modelos abajo."
+        ]
+      },
+      {
+        "en": [
+          "Abrasive options",
+          "AO (aluminum oxide) / SiC (silicon carbide), as listed in the catalog. Confirm the abrasive option for the selected model."
+        ],
+        "es": [
+          "Opciones de abrasivo",
+          "AO (óxido de aluminio) / SiC (carburo de silicio), según catálogo. Confirma la opción para el modelo elegido."
+        ]
+      },
+      {
+        "en": [
+          "Catalog grit range",
+          "80–320; available grit and filament diameter must be confirmed for each model."
+        ],
+        "es": [
+          "Rango de grano del catálogo",
+          "80–320; confirmar el grano disponible y diámetro del filamento para cada modelo."
+        ]
+      },
+      {
+        "en": [
+          "Mounting",
+          "Listed shank-mounted models: 6 mm shank. Wheel bores and cup threads: ask Frank."
+        ],
+        "es": [
+          "Montaje",
+          "Modelos con vástago listados: 6 mm. Orificios y roscas de copa: consulta a Frank."
+        ]
+      },
+      {
+        "en": [
+          "Model and packing",
+          "Model-specific quantities and carton dimensions are listed below. Packing changes must be confirmed with the order."
+        ],
+        "es": [
+          "Modelo y empaque",
+          "Cantidades y medidas de caja por modelo indicadas abajo. Los cambios de empaque se confirman con el pedido."
+        ]
+      },
+      {
+        "en": [
+          "Applications",
+          "Catalog applications include removal of rust, corrosion, paint and primer, and surface cleaning. Confirm suitability for the workpiece and required finish."
+        ],
+        "es": [
+          "Aplicaciones",
+          "El catálogo indica eliminación de óxido, corrosión, pintura e imprimación, y limpieza de superficies. Confirma idoneidad para la pieza y el acabado requerido."
+        ]
+      },
+      {
+        "en": [
+          "Equipment compatibility",
+          "Ask Frank."
+        ],
+        "es": [
+          "Compatibilidad con equipo",
+          "Consulta a Frank."
+        ]
+      },
+      {
+        "en": [
+          "Certification scope",
+          "Ask Frank."
+        ],
+        "es": [
+          "Alcance de certificaciones",
+          "Consulta a Frank."
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "For cleaning, deburring or finishing enquiries, specify the workpiece material, required finish and machine. Brush color alone does not identify abrasive type or grit.",
+      "es": "Para limpieza, desbarbado o acabado, indica el material de la pieza, el acabado deseado y la máquina. El color del cepillo no identifica por sí solo el abrasivo ni el grano."
+    },
+    "meta": {
+      "en": "Abrasive filament brushes from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Cepillos de filamento abrasivo YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    },
+    "catalogSource": "images/catalog/11.webp",
+    "catalogModels": [
+      {
+        "en": "Abrasive wheel brushes",
+        "es": "Discos de filamento abrasivo",
+        "mounted": false,
+        "rows": [
+          [
+            "88875",
+            75,
+            12500,
+            60,
+            "47×35×19"
+          ],
+          [
+            "88100",
+            100,
+            6500,
+            60,
+            "47×35×19"
+          ],
+          [
+            "88125",
+            125,
+            4500,
+            42,
+            "49×29×26"
+          ],
+          [
+            "88150",
+            150,
+            4500,
+            32,
+            "35×34×31"
+          ],
+          [
+            "88175",
+            175,
+            4500,
+            20,
+            "38×19×36"
+          ],
+          [
+            "88200",
+            200,
+            4500,
+            20,
+            "38×19×36"
+          ]
+        ]
+      },
+      {
+        "en": "Abrasive cup brushes",
+        "es": "Copas de filamento abrasivo",
+        "mounted": false,
+        "rows": [
+          [
+            "99875D",
+            75,
+            12500,
+            80,
+            "46×34×32"
+          ],
+          [
+            "99100D",
+            100,
+            6500,
+            36,
+            "43×34×30"
+          ],
+          [
+            "99125D",
+            125,
+            4500,
+            24,
+            "41×28×40"
+          ]
+        ]
+      },
+      {
+        "en": "Shank-mounted abrasive wheel brushes",
+        "es": "Discos de filamento abrasivo con vástago",
+        "mounted": true,
+        "rows": [
+          [
+            "86838",
+            38,
+            4500,
+            270,
+            "59×35×36"
+          ],
+          [
+            "86850",
+            50,
+            4500,
+            270,
+            "59×35×36"
+          ],
+          [
+            "86863",
+            63,
+            4500,
+            270,
+            "59×35×36"
+          ],
+          [
+            "86875",
+            75,
+            4500,
+            180,
+            "59×35×36"
+          ],
+          [
+            "86100",
+            100,
+            4500,
+            120,
+            "59×30×41"
+          ]
+        ]
+      },
+      {
+        "en": "Shank-mounted abrasive cup brushes",
+        "es": "Copas de filamento abrasivo con vástago",
+        "mounted": true,
+        "rows": [
+          [
+            "85840",
+            40,
+            4500,
+            216,
+            "47×33×35"
+          ],
+          [
+            "85850",
+            50,
+            4500,
+            216,
+            "47×33×35"
+          ],
+          [
+            "86860",
+            60,
+            4500,
+            120,
+            "61×39×27"
+          ],
+          [
+            "85875",
+            75,
+            4500,
+            96,
+            "56×36×33"
+          ],
+          [
+            "85880",
+            80,
+            4500,
+            96,
+            "56×36×33"
+          ]
+        ]
+      }
+    ]
+  },
+  "2": {
+    "source": "https://yekaiabrasives.com/en/products/twist-knot-bevel-brush/",
+    "description": {
+      "en": "Twisted carbon steel wire wheel brush with an outward-angled bevel profile. Choose a 4, 4.5 or 5-inch series diameter and confirm the mounting connection with Frank.",
+      "es": "Cepillo circular de alambre trenzado de acero al carbono con perfil cónico. Elige un diámetro de 4, 4.5 o 5 pulgadas y confirma la conexión de montaje con Frank."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Wire material",
+          "Carbon steel wire"
+        ],
+        "es": [
+          "Material del alambre",
+          "Acero al carbono"
+        ]
+      },
+      {
+        "en": [
+          "Typical wire diameter",
+          "0.5 mm; confirm for the selected model."
+        ],
+        "es": [
+          "Diámetro típico del alambre",
+          "0.5 mm; confirmar para el modelo elegido."
+        ]
+      },
+      {
+        "en": [
+          "Series outside diameters",
+          "4, 4.5, 5 inches"
+        ],
+        "es": [
+          "Diámetros exteriores de la serie",
+          "4, 4.5, 5 pulgadas"
+        ]
+      },
+      {
+        "en": [
+          "Brush profile",
+          "Outward-angled bevel profile"
+        ],
+        "es": [
+          "Perfil del cepillo",
+          "Cónico, con haces orientados hacia afuera"
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "Send the outside diameter, exact mounting connection, machine model and intended cleaning task. Ask Frank to confirm safe speed and equipment compatibility before ordering.",
+      "es": "Envía diámetro exterior, conexión de montaje, modelo de máquina y tarea de limpieza. Consulta a Frank para confirmar las RPM seguras y compatibilidad antes de pedir."
+    },
+    "meta": {
+      "en": "Twisted wire wheels from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Discos de alambre trenzado YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "3": {
+    "source": "https://yekaiabrasives.com/en/products/crimped-wire-wheel-brush/",
+    "description": {
+      "en": "Copper-coated crimped steel wire brushes for wholesale sourcing. Confirm the exact wheel profile and mounting before selecting a diameter from the crimped brush range.",
+      "es": "Cepillos de alambre de acero cobrizado ondulado para suministro de mayoreo. Confirma el perfil y el montaje antes de elegir el diámetro de la gama."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Wire type",
+          "Copper-coated steel; not solid brass."
+        ],
+        "es": [
+          "Tipo de alambre",
+          "Acero cobrizado; no es latón macizo."
+        ]
+      },
+      {
+        "en": [
+          "Typical wire diameter",
+          "0.3 mm; confirm for the selected model."
+        ],
+        "es": [
+          "Diámetro típico del alambre",
+          "0.3 mm; confirmar para el modelo elegido."
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "The factory offers several crimped brush profiles. Match the product photograph, diameter and mounting to your existing item; dimensions from a radial wheel should not be applied to a bevel brush.",
+      "es": "La fábrica ofrece distintos perfiles de cepillos ondulados. Compara foto, diámetro y montaje con tu producto; las medidas de un disco radial no deben aplicarse a un cepillo cónico."
+    },
+    "meta": {
+      "en": "Copper-coated wire wheels from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Discos de alambre cobrizado YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "4": {
+    "source": "https://yekaiabrasives.com/en/products/reinforced-twist-knot-cup-brush/",
+    "description": {
+      "en": "Reinforced twist-knot cup brushes with carbon steel bundles and a silver metal retaining ring. This series is distinct from the standard unbanded cup brush.",
+      "es": "Cepillos de copa trenzados con alambre de acero al carbono y aro metálico de refuerzo. Esta serie es distinta de la copa estándar sin aro."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Wire material",
+          "Carbon steel wire"
+        ],
+        "es": [
+          "Material del alambre",
+          "Acero al carbono"
+        ]
+      },
+      {
+        "en": [
+          "Typical wire diameter",
+          "0.5 mm; confirm for the selected model."
+        ],
+        "es": [
+          "Diámetro típico del alambre",
+          "0.5 mm; confirmar para el modelo elegido."
+        ]
+      },
+      {
+        "en": [
+          "Series outside diameters",
+          "2.5, 3, 3.5, 4, 5 in"
+        ],
+        "es": [
+          "Diámetros exteriores de la serie",
+          "2.5, 3, 3.5, 4, 5 pulgadas"
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "Specify the reinforced cup design in your purchase request. Confirm the outer diameter and threaded connection rather than selecting solely by the appearance of the metal band.",
+      "es": "Especifica el diseño de copa reforzada en tu solicitud. Confirma diámetro exterior y conexión roscada; no selecciones únicamente por la apariencia del aro."
+    },
+    "meta": {
+      "en": "Banded twisted cup brushes from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Copas trenzadas con aro YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "10": {
+    "source": "https://yekaiabrasives.com/en/products/crimped-wire-cup-brush/",
+    "description": {
+      "en": "Crimped wire cup brushes with a threaded metal cup. Available series diameters range from 2.5 to 6 inches, with material availability confirmed by size and model.",
+      "es": "Cepillos de copa de alambre ondulado con copa metálica roscada. La serie incluye diámetros de 2.5 a 6 pulgadas; el material se confirma según medida y modelo."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Typical wire diameter",
+          "0.3 mm; confirm for the selected model."
+        ],
+        "es": [
+          "Diámetro típico del alambre",
+          "0.3 mm; confirmar para el modelo elegido."
+        ]
+      },
+      {
+        "en": [
+          "Series outside diameters",
+          "2.5, 3, 4, 5, 6 in"
+        ],
+        "es": [
+          "Diámetros exteriores de la serie",
+          "2.5, 3, 4, 5, 6 pulgadas"
+        ]
+      },
+      {
+        "en": [
+          "Crimped range materials",
+          "Copper-coated steel, stainless steel or carbon steel; availability varies by series and size."
+        ],
+        "es": [
+          "Materiales de la gama ondulada",
+          "Acero cobrizado, inoxidable o al carbono; disponibilidad según serie y medida."
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "For ferretería distribution, specify each cup size and thread separately. A requested material option must be confirmed for that size; not every material and diameter combination is assumed available.",
+      "es": "Para distribución ferretera, indica por separado la medida y rosca de cada copa. Confirma el material para esa medida; no se presupone disponibilidad de todas las combinaciones."
+    },
+    "meta": {
+      "en": "Crimped wire cup brushes from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Copas de alambre ondulado YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "8": {
+    "source": "https://yekaiabrasives.com/en/products/twist-knot-cup-brush/",
+    "description": {
+      "en": "Knotted carbon steel wire cup brush with a red metal body and threaded connection. Choose the standard cup series when a reinforced retaining ring is not required.",
+      "es": "Cepillo de copa de alambre trenzado de acero al carbono, con cuerpo metálico rojo y conexión roscada. Corresponde a la serie de copa estándar sin aro de refuerzo."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Wire material",
+          "Carbon steel wire"
+        ],
+        "es": [
+          "Material del alambre",
+          "Acero al carbono"
+        ]
+      },
+      {
+        "en": [
+          "Typical wire diameter",
+          "0.5 mm; confirm for the selected model."
+        ],
+        "es": [
+          "Diámetro típico del alambre",
+          "0.5 mm; confirmar para el modelo elegido."
+        ]
+      },
+      {
+        "en": [
+          "Series outside diameters",
+          "2.5, 3, 4, 5, 6 in"
+        ],
+        "es": [
+          "Diámetros exteriores de la serie",
+          "2.5, 3, 4, 5, 6 pulgadas"
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "Send the cup diameter and exact thread with your enquiry. For workshop maintenance requirements, include the workpiece, cleaning task and machine model so the configuration can be checked.",
+      "es": "Envía diámetro de copa y rosca exacta. Para mantenimiento de taller, incluye la pieza, tarea de limpieza y modelo de máquina para revisar la configuración."
+    },
+    "meta": {
+      "en": "Knotted wire cup brush from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Cepillo de copa de alambre trenzado YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "5": {
+    "source": "https://yekaiabrasives.com/en/products/mounted-wire-brushes/",
+    "description": {
+      "en": "Shank-mounted wire brushes in end, wheel and cup shapes. The assortment includes different wire constructions; request the individual shape and connection needed for your product range.",
+      "es": "Cepillos de alambre con vástago en forma de punta, disco y copa. El surtido incluye distintas construcciones de alambre; solicita cada forma y conexión para tu catálogo."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Brush shapes",
+          "End, wheel and cup"
+        ],
+        "es": [
+          "Formas",
+          "Punta, disco y copa"
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "For a mixed assortment, list quantities by brush shape, outside diameter and shank diameter. A group photograph illustrates the range and does not define the contents of a standard set.",
+      "es": "Para un surtido mixto, detalla cantidades por forma, diámetro exterior y diámetro del vástago. La fotografía de grupo muestra la gama y no define un juego estándar."
+    },
+    "meta": {
+      "en": "Shaft-mounted wire wheels from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Discos de alambre con vástago YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "6": {
+    "source": null,
+    "description": {
+      "en": "Manual wire brushes with plastic handles for buyers assembling a hand-tool assortment. Confirm filament material, brush dimensions and packing quantity for each selected model.",
+      "es": "Cepillos manuales de alambre con mango de plástico para surtidos de herramientas. Confirma material del filamento, dimensiones y cantidad por empaque de cada modelo."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Handle",
+          "Plastic handle"
+        ],
+        "es": [
+          "Mango",
+          "Plástico"
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "Include the handle style, brush head size and intended cleaning task. Manual brushes are a separate product family from powered wheel and cup brushes.",
+      "es": "Incluye forma del mango, tamaño del cabezal y tarea de limpieza. Los cepillos manuales son una familia distinta de los discos y copas para herramientas motorizadas."
+    },
+    "meta": {
+      "en": "Plastic-handle hand brushes from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Cepillos manuales con mango plástico YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "7": {
+    "source": "https://yekaiabrasives.com/en/products/crimped-wire-wheel-brush/",
+    "description": {
+      "en": "Radial crimped wire wheel brushes with a center bore. The factory series covers six outside diameters from 4 to 10 inches; confirm face width and bore for the selected wheel.",
+      "es": "Discos radiales de alambre ondulado con orificio central. La serie incluye seis diámetros de 4 a 10 pulgadas; confirma ancho y orificio para el disco elegido."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Series outside diameters",
+          "4, 5, 6, 7, 8, 10 in"
+        ],
+        "es": [
+          "Diámetros exteriores de la serie",
+          "4, 5, 6, 7, 8, 10 pulgadas"
+        ]
+      },
+      {
+        "en": [
+          "Typical wire diameter",
+          "0.3 mm; confirm for the selected model."
+        ],
+        "es": [
+          "Diámetro típico del alambre",
+          "0.3 mm; confirmar para el modelo elegido."
+        ]
+      },
+      {
+        "en": [
+          "Mounting style",
+          "Center bore; exact bore and adapters pending confirmation."
+        ],
+        "es": [
+          "Montaje",
+          "Orificio central; medida y adaptadores por confirmar."
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "When replacing a bench-mounted brush, provide the machine model, shaft diameter and available clearance. Do not infer the bore size or permissible speed from wheel diameter alone.",
+      "es": "Al sustituir un cepillo de esmeril de banco, indica modelo de máquina, diámetro del eje y espacio disponible. El diámetro exterior no determina el orificio ni las RPM permitidas."
+    },
+    "meta": {
+      "en": "Wide crimped wire wheels from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Discos ondulados anchos YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "9": {
+    "source": "https://yekaiabrasives.com/en/products/twist-knot-wire-wheel-brush/",
+    "description": {
+      "en": "Wire wheel brushes with narrow twisted bundles. Request a fine-bundle configuration and confirm the face width and mounting required for your application.",
+      "es": "Discos de alambre trenzado con haces estrechos. Solicita la configuración de haces finos y confirma ancho y montaje según tu aplicación."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Wire material",
+          "Carbon steel wire"
+        ],
+        "es": [
+          "Material del alambre",
+          "Acero al carbono"
+        ]
+      },
+      {
+        "en": [
+          "Typical wire diameter",
+          "0.5 mm; confirm for the selected model."
+        ],
+        "es": [
+          "Diámetro típico del alambre",
+          "0.5 mm; confirmar para el modelo elegido."
+        ]
+      },
+      {
+        "en": [
+          "Series outside diameters",
+          "Fine-bundle range: 4.5, 5, 6, 7 in"
+        ],
+        "es": [
+          "Diámetros exteriores de la serie",
+          "Gama de haces finos: 4.5, 5, 6, 7 pulgadas"
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "For work around welds or narrow areas, describe the available access and desired finish. Confirm that the selected bundle profile and wheel width fit the task before ordering.",
+      "es": "Para trabajos alrededor de soldaduras o zonas estrechas, describe el acceso disponible y acabado deseado. Confirma que el perfil de haces y ancho sean adecuados antes de pedir."
+    },
+    "meta": {
+      "en": "Stringer knotted wheels from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Discos de trenzado estrecho YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "28": {
+    "source": "https://yekaiabrasives.com/en/products/grass-cutting-wheel/",
+    "description": {
+      "en": "Twisted carbon steel wire grass trimmer heads supplied by diameter and total bundle count. Confirm the mounting and approved machine configuration before purchase.",
+      "es": "Cabezales de alambre trenzado de acero al carbono para desbrozadora, por diámetro y número total de haces. Confirma montaje y configuración del equipo antes de comprar."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Wire material",
+          "Carbon steel wire"
+        ],
+        "es": [
+          "Material del alambre",
+          "Acero al carbono"
+        ]
+      },
+      {
+        "en": [
+          "Wire diameter",
+          "0.5 mm"
+        ],
+        "es": [
+          "Diámetro del alambre",
+          "0.5 mm"
+        ]
+      },
+      {
+        "en": [
+          "Series outside diameters",
+          "Published combinations: 6 in / 24 bundles; 6 in / 30; 8 in / 30; 8 in / 36. Other combinations require confirmation."
+        ],
+        "es": [
+          "Diámetros exteriores de la serie",
+          "Combinaciones publicadas: 6 pulgadas / 24 haces; 6 / 30; 8 / 30; 8 / 36. Otras combinaciones requieren confirmación."
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "Bundle count refers to the entire wheel. Send the machine model and bore requirements. Product markings are not a substitute for model-specific confirmation of maximum safe speed and compatibility.",
+      "es": "El número de haces corresponde al disco completo. Envía modelo de máquina y orificio requerido. Las marcas del producto no sustituyen la confirmación de RPM seguras y compatibilidad por modelo."
+    },
+    "meta": {
+      "en": "Twisted wire grass trimmer heads from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Cabezales de alambre trenzado para desbrozadora YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "29": {
+    "source": "https://yekaiabrasives.com/en/products/cordless-trimmer-wire-brush-wheel/",
+    "description": {
+      "en": "Wire trimmer heads with 3 or 6 bundles, offered in 150, 180, 200 and 230 mm diameters. This is a brush attachment; it does not include a battery or power unit.",
+      "es": "Cabezales de alambre de 3 o 6 haces, en diámetros de 150, 180, 200 y 230 mm. Es un accesorio de cepillo; no incluye batería ni motor."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Series outside diameters",
+          "150, 180, 200, 230 mm; each with 3 or 6 bundles"
+        ],
+        "es": [
+          "Diámetros exteriores de la serie",
+          "150, 180, 200, 230 mm; cada medida con 3 o 6 haces"
+        ]
+      },
+      {
+        "en": [
+          "Bundle count",
+          "3 or 6 total bundles per head"
+        ],
+        "es": [
+          "Número de haces",
+          "3 o 6 haces en total por cabezal"
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "The factory describes this range for handheld cordless trimmers. Confirm the particular machine and connection; do not assume universal fit or compatibility with petrol-powered equipment.",
+      "es": "La fábrica describe esta gama para desbrozadoras inalámbricas de mano. Confirma máquina y conexión; no se presupone ajuste universal ni compatibilidad con equipos a gasolina."
+    },
+    "meta": {
+      "en": "3 and 6 bundle wire trimmer heads from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Cabezales de alambre de 3 y 6 haces YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "27": {
+    "source": null,
+    "description": {
+      "en": "Abrasive flap discs with overlapping abrasive flaps. For wholesale enquiries, specify outside diameter, bore, grit and abrasive type rather than selecting by color alone.",
+      "es": "Discos de láminas abrasivas superpuestas, también conocidos como discos flap. Para mayoreo, indica diámetro exterior, orificio, grano y tipo de abrasivo; no elijas solo por color."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Construction",
+          "Overlapping abrasive flaps on a backing disc"
+        ],
+        "es": [
+          "Construcción",
+          "Láminas abrasivas superpuestas sobre un disco de soporte"
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "Describe the workpiece and whether you need stock removal or surface finishing. Abrasive grain, backing, grit and rated speed remain subject to factory confirmation for the selected model.",
+      "es": "Describe la pieza e indica si necesitas desbaste o acabado. El abrasivo, soporte, grano y RPM máximas quedan sujetos a confirmación para el modelo elegido."
+    },
+    "meta": {
+      "en": "Abrasive flap discs from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Discos de láminas abrasivas YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "30": {
+    "source": null,
+    "description": {
+      "en": "Crimped wire brush with a metal body and center mounting hole, as shown in the product photograph. Confirm the exact profile, outside diameter and bore before ordering.",
+      "es": "Cepillo de alambre ondulado con cuerpo metálico y orificio central, como se muestra en la fotografía. Confirma perfil, diámetro exterior y orificio antes de pedir."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Wire construction",
+          "Crimped wire"
+        ],
+        "es": [
+          "Construcción del alambre",
+          "Alambre ondulado"
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "Send the photograph with your requested dimensions so the factory can identify the exact series. Dimensions of radial industrial wheels should not automatically be assigned to this brush profile.",
+      "es": "Envía la fotografía con las medidas solicitadas para identificar la serie exacta. No deben asignarse automáticamente las medidas de discos radiales a este perfil de cepillo."
+    },
+    "meta": {
+      "en": "Crimped wire brush wheels from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Cepillos circulares de alambre ondulado YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "31": {
+    "source": "https://yekaiabrasives.com/en/products/nylon-filament-grass-cutting-wheel/",
+    "description": {
+      "en": "Nylon grass trimmer brushes with rectangular-section nylon filaments. The factory series includes 6-inch and 8-inch versions with a published 22.5 mm mounting bore.",
+      "es": "Cepillos de nylon para desbrozadora con filamentos de sección rectangular. La serie incluye versiones de 6 y 8 pulgadas, con orificio publicado de 22.5 mm."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Series outside diameters",
+          "6, 8 in"
+        ],
+        "es": [
+          "Diámetros exteriores de la serie",
+          "6, 8 pulgadas"
+        ]
+      },
+      {
+        "en": [
+          "Filament material",
+          "Standard nylon; rectangular cross-section"
+        ],
+        "es": [
+          "Material del filamento",
+          "Nylon estándar; sección rectangular"
+        ]
+      },
+      {
+        "en": [
+          "Series mounting bore",
+          "22.5 mm; confirm selected model and equipment fit."
+        ],
+        "es": [
+          "Orificio de la serie",
+          "22.5 mm; confirmar modelo elegido y ajuste al equipo."
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "This standard nylon series is distinct from abrasive-filled filament brushes. Confirm mounting, safe speed and the intended task; filament cross-section dimensions require factory verification.",
+      "es": "Esta serie de nylon estándar es distinta de los cepillos con filamento abrasivo. Confirma montaje, RPM seguras y tarea; las dimensiones de la sección del filamento requieren verificación."
+    },
+    "meta": {
+      "en": "Nylon grass trimmer brushes from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Cepillos de nylon para desbrozadora YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  },
+  "22": {
+    "source": null,
+    "description": {
+      "en": "Blister-card packaging for individual brushes and mixed retail assortments. Specify the brush models and quantities before choosing the packaging layout.",
+      "es": "Empaque en blíster con tarjeta para cepillos individuales y surtidos de venta en ferreterías. Define modelos y cantidades antes de elegir el diseño del empaque."
+    },
+    "specifications": [
+      {
+        "en": [
+          "Packaging format",
+          "Blister card; contents agreed per order"
+        ],
+        "es": [
+          "Formato de empaque",
+          "Blíster con tarjeta; contenido acordado por pedido"
+        ]
+      }
+    ],
+    "buyingNotes": {
+      "en": "Send the product list, pieces per set and artwork requirements. The catalog image is a packaging reference, not a fixed bill of materials or a confirmed pack quantity.",
+      "es": "Envía lista de productos, piezas por juego y requisitos de diseño. La imagen del catálogo es una referencia de empaque, no una lista fija de contenido ni cantidad confirmada."
+    },
+    "meta": {
+      "en": "Blister-card brush sets from YEKAI for wholesale and OEM enquiries. Compare configurations and request a model-specific quote on WhatsApp.",
+      "es": "Juegos de cepillos en blíster YEKAI para mayoreo y empaque OEM. Consulta opciones y solicita tu cotización por modelo en WhatsApp."
+    }
+  }
+}
