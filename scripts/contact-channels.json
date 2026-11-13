@@ -1,0 +1,22 @@
+{
+  "email": "frank@yekaifrank.com",
+  "facebook": "https://facebook.com/yekai.wirewheelbrush",
+  "messenger": "https://m.me/yekai.wirewheelbrush",
+  "instagram": "https://www.instagram.com/frank_yekai_abrasives/",
+  "labels": {
+    "en": {
+      "group": "Other ways to contact Frank",
+      "email": "Email Frank",
+      "facebook": "Facebook page",
+      "messenger": "Messenger chat",
+      "instagram": "Instagram profile"
+    },
+    "es": {
+      "group": "Otras formas de contactar a Frank",
+      "email": "Enviar correo a Frank",
+      "facebook": "Página de Facebook",
+      "messenger": "Chat de Messenger",
+      "instagram": "Perfil de Instagram"
+    }
+  }
+}

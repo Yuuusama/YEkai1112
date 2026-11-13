@@ -1,0 +1,8 @@
+.category-navigation{display:flex;flex-wrap:wrap;gap:8px 16px;padding:16px 0;margin:0 0 24px;border-bottom:1px solid #ddd;font-size:14px;line-height:1.5}.category-navigation a{display:inline-flex;align-items:center;min-height:44px;text-decoration:none;padding:6px 10px;border-radius:3px;background:#f5f3f0}.category-navigation a:hover,.category-navigation a[aria-current=page]{color:#a82229;background:#f0e6e3}.breadcrumb{display:flex;flex-wrap:wrap;gap:8px;line-height:1.6}.breadcrumb a{text-decoration:underline;text-underline-offset:3px}#category-buying-guide{margin:40px 0;padding:24px 0;border-top:1px solid #ddd;max-width:850px}#category-buying-guide h3{font-size:20px;margin-top:24px}.language{text-decoration:none}a:focus-visible,button:focus-visible{outline:3px solid #b52b2d;outline-offset:4px}@media(max-width:760px){.category-navigation{flex-wrap:nowrap;overflow-x:auto;max-width:100%;padding-bottom:12px}.category-navigation a{flex-shrink:0;max-width:240px}.detail-header nav a{min-height:44px;display:inline-flex;align-items:center}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}}
+
+/* 2026-11 competitor-informed SEO: concise, original distributor guidance */
+.yekai-buyer-guide{max-width:1080px;margin:2.5rem auto 1rem;padding:1.5rem 1.75rem;border:1px solid rgba(130,145,160,.24);border-radius:14px;background:rgba(145,155,165,.055)}
+.yekai-buyer-guide h2{font-size:clamp(1.3rem,2vw,1.75rem);line-height:1.3;margin:0 0 .8rem}
+.yekai-buyer-guide h3{font-size:1.1rem;margin:1.5rem 0 .5rem}
+.yekai-buyer-guide p{line-height:1.8;margin:.6rem 0}
+@media(max-width:640px){.yekai-buyer-guide{padding:1.15rem;margin:1.5rem 0}}

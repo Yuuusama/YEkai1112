@@ -1,0 +1,60 @@
+2026-11-09: Offline review only, not deployed. Open REVIEW-SIZES.html. 33 metric diameter choices added to 5 existing product families. 16 products/order/images/URLs preserved. EN and es-MX synchronized. Unknown variant details: Ask Frank. Competitor SKUs, speed ratings, certifications and images not copied. Static data and asset checks passed. Browser interaction/visual test unavailable in this environment; review selected-size details and WhatsApp prefill before deployment.
+
+
+2026-11-10 增量修订（未部署）
+做了什么：删除实际存在的3个旧重定向index.html及空目录；西语abrasive-flap-wheel/index.html原包已不存在；保留4条_redirects规则。扫描未发现仍指向4个旧地址的HTML内部链接。维护脚本支持以后重定向目标修正。
+压缩32个产品页描述，另缩短3个原先超限的英文首页/分类描述；meta、OG、WebPage/Product description同步。缩短指定西语打草轮title并同步OG/WebPage名称。为44个现有sitemap URL加2026-11-10 lastmod。英西首页各补6个分享标签。
+同步scripts/seo-copy.json和生成脚本，新增maintain_seo.py与validate_seo.py。修正旧生成器将BreadcrumbList误替换为Product的重复结构化数据问题；生成器不再回写products.json/app.js。隔离再生成后验证本次规则仍有效。
+没做什么：未改四个受保护产品数据JSON、app.js、quote.js、图片、产品顺序、URL结构、语言切换或询盘逻辑；未改30个其他noindex空壳文件；未统一wheel/bevel命名；未部署。没有新增尺寸、RPM、材料、认证、价格、评分或产品性能。
+待我提供：可确认的品牌Logo文件（包中未找到明确Logo，未将产品图充作Logo）；真实邮箱；真实社媒主页链接。未添加email/sameAs/占位符。其余缺失规格仍保持原样，本次无新增未知字段。
+待我决定：30个旧空壳页保留/删除/对应产品301；id=2统一wheel或bevel brush；id=5综合系列或单独轮刷，id=3镀铜材质，id=30轮廓；西语crimped-wire-brush-wheels的63字符title是否另行缩短。
+详细描述表、空壳清单、命名全部出现位置、其余15款检查及44页验证见reports/。浏览器、线上HTTP/Netlify、外部链接、JS动态请求及Google实时收录未验证。
+
+
+2026-11-10 二次复查（未部署）
+做了什么：修复生成器因HTML属性顺序不同而重复插入主分类导航的问题，保留独立形状导航；修正面包屑及meta/OG匹配；保留现有语言链接。增加连续生成和离线询盘回归检查：第二次生成0个文件变化，32页194配置的290个模拟场景通过。
+没做什么：没有改现有页面HTML、产品数据、图片、app.js/quote.js或业务条件；没有部署。未将离线模拟称作浏览器验证，手机布局和线上HTTP仍未验证。
+待我决定：独立About英西页需增加首页正文入口；32个产品页的Product节点都缺少富媒体所需报价/评价字段，未添加虚构信息，是否调整类型待定；原命名、空壳、Logo、邮箱、社媒待确认项不变。完整建议见reports/recheck-2026-11-10.md。
+
+
+2026-11-11 真实联系方式增量修订（未部署）
+做了什么：仅在英文和es-MX两个首页的联系区、页脚各加入邮箱、Facebook、Messenger、Instagram四个次要入口，使用22px内联单色SVG、翻译后的aria-label与44px最小触控尺寸。WhatsApp原有入口、按钮和逻辑保持不变。
+做了什么：两个首页的Organization加入已提供的邮箱、Facebook和Instagram主页sameAs，以及sales contactPoint；号码沿用现有Organization，语言为English/Spanish。Messenger只作为可见聊天链接。真实联系方式及标签写入scripts/contact-channels.json，SVG与生成逻辑写入build_contact_channels.py，由maintain_seo.py接入现有生成流程。
+做了什么：新增联系方式静态检查，并接入原有再生成回归检查；确认四个渠道各在每个首页显示两次，其他HTML页面0处；旧Facebook数字ID扫描0处；全站86段JSON-LD可解析，44个可索引页及1432个本地引用检查无错误；连续生成两次后第二次0文件变化，88个受保护文件不变，290个离线询盘模拟场景通过。
+没做什么：未增加Logo或其他社媒/邮箱，未将Messenger加入sameAs；产品、分类及About页未加联系方式。未改变任何原有产品数据、图片、URL、语言切换、app.js/quote.js、业务条件、sitemap日期或既有待确认项。未部署。没有新增外部脚本、样式、图片或图标库引用；原站已有Google Fonts引用保持不变。
+没做什么：原包无dist/，Netlify配置发布根目录，因此没有创建或声称验证不存在的dist产物。浏览器启动因环境限制失败，浏览器渲染、手机显示、图标实际样子、运行时网络请求和外链账号可达性均未验证。
+待我确认什么：本次联系方式无待提供项；以前记录中的邮箱及社媒待提供项现已解决。上线前仍需人工检查手机点击及图标显示。其他产品命名、空壳、结构化数据等旧待决定事项保持原样。
+完整本次计数、文件清单和验证结果见reports/contact-channels-2026-11-11.md及同日期JSON报告。
+
+
+2026-11-11 目录缩略图比例修复（r2，未部署）
+做了什么：共享style.css的.catalog-page img补充height:auto。目录缩略图由原有width:100%配合HTML height=1920造成纵向拉伸，现使用原图1260:1920比例缩放，英西语共用样式同时生效。生成脚本不重写style.css，因此重新生成会保留修复。
+没做什么：未修改图片、产品数据、app.js、quote.js、目录点击、语言切换、页面文案或联系方式。未部署。浏览器和手机实际渲染仍未验证；本次检查代码规则及图片尺寸，并运行原有静态与生成回归检查。
+
+
+2026-11-13 — 西语优先的增量维护（未部署）
+做了什么：
+- 修复 app.js 动态产品图片根路径，以及英西语动态产品链接；统一 HTML 本站资源及普通链接为根路径。
+- 新增 site-refinements.css：共享容器、64px 页头、标题排版、目录原比例图片和移动端导航定位修复。
+- 双语首页更新制造商首屏、具体副标题、三个卖点、WhatsApp 主按钮、语言入口和产品直达目录。
+- 32 个产品页加入含产品名的侧栏与底部 WhatsApp 链接；保留配置询盘逻辑。
+- OEM 添加墨西哥 DDP 与大货前样品说明。保留现有包装/印版费条款及联系方式。
+- 添加暂不可点击的 PDF 目录按钮及待发布说明；证书卡片添加已知文件类型或适用范围确认提示。
+- 44 个可索引页面保留自引用 canonical，hreflang 改为 en/es/x-default，站点地图 lastmod 更新为 2026-11-13。
+- 维护脚本接入生成流程，修复重复采购区块；连续两次重建稳定。完整检测输出见 reports/2026-11-13/。
+没做什么：
+- 没有 Netlify 部署、没有提交 Search Console、没有修改四个产品数据文件、图片、quote.js、重定向规则或产品顺序。
+- 没有新增价格、评分、尺寸、性能或认证覆盖范围；没有生成式修改产品外观。
+- 历史 noindex 空壳页未删除，也未改变 noindex 或 meta refresh 目标；仅统一其中普通链接路径和 HTML 序列化。
+待确认/提供：
+- 完整目录 PDF；CE/RoHS/UL 等文件对应的产品型号与范围；可核对钢丝、螺母及铭文的未修饰首屏产品原片。
+- Twisted wire wheels 与 bevel brush 的命名仍需工厂确认；沿用既有名称和资料，不自行认定。
+- 浏览器启动受环境限制，桌面/手机实际渲染、图标及换行未验证。线上重定向响应未验证。
+
+
+2026-11-13 — 域名邮箱更新
+做了什么：统一联系邮箱为 frank@yekaifrank.com；更新英西语首页联系区、页脚、mailto、Organization/ContactPoint、生成数据源和修改说明。递归检查全部页面、脚本及报告。
+没做什么：没有给原本不含邮箱的产品、About、分类或 OEM 页面新增联系入口；不修改布局、产品资料、社媒、电话、询盘逻辑或 sitemap；未部署。
+待确认：真实收发邮件、在线站点部署状态未验证。目录 PDF 仍待提供。
+
+2026-11-13 r2：首屏文字与产品图分区；统一 WhatsApp 绿色；语言当前状态与可点击替代语言；DDP 统一为询价确认。保持原图、H1、canonical、hreflang、sitemap、64px 页头及容器间距不变。未部署；实际浏览器布局和外部 WhatsApp 打开未验证。

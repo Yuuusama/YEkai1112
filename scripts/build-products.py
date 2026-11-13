@@ -52,11 +52,17 @@ for p in products:
   t=t.replace('Documentation & exhibitions','Documentation & exhibitions').replace('Factory Supply','Suministro de fábrica' if es else 'Factory Supply')
   # Only verified, visible basic product attributes; no offers or ratings.
   graph={'@context':'https://schema.org','@graph':[{'@type':'WebPage','@id':url+'#webpage','url':url,'name':title,'description':meta,'inLanguage':'es-MX' if es else 'en','mainEntity':{'@id':url+'#product'}},{'@type':'Product','@id':url+'#product','name':name,'description':desc,'image':BASE+'/'+p['image'],'url':url,'brand':{'@type':'Brand','name':'YEKAI'},'additionalProperty':[{'@type':'PropertyValue','name':r[lang][0],'value':r[lang][1]} for r in rows]}]}
-  t=re.sub(r'<script type="application/ld\+json">.*?</script>','<script type="application/ld+json">'+dump(graph)+'</script>',t,flags=re.S)
+  def replace_product_schema(match):
+   data=json.loads(match[2])
+   nodes=data.get('@graph',[data])
+   if any(node.get('@type')=='Product' for node in nodes):
+    return match[1]+dump(graph)+match[3]
+   return match[0]
+  t=re.sub(r'(<script\b[^>]*type="application/ld\+json"[^>]*>)(.*?)(</script>)',replace_product_schema,t,flags=re.S)
   # The product photo is the above-the-fold image.
   t=re.sub(r'(<div class="detail-product-image">.*?)(</div>)',lambda m:re.sub(r'alt="[^"]*"','alt="'+esc(name)+'"',m[1]).replace('loading="lazy"','loading="eager" fetchpriority="high"')+m[2],t,count=1,flags=re.S)
   path.write_text(t)
-(R/'products.json').write_text(dump(products))
+# Product source data is read-only; retain original file bytes.
 # Synchronize static/home fallback content and runtime data from one product source.
 for lang in ('en','es'):
  path=R/('es/index.html' if lang=='es' else 'index.html');t=path.read_text()
@@ -92,16 +98,9 @@ for path in R.rglob('*.html'):
   if 'alt=' not in tag:tag=tag[:-1]+' alt="">'
   return tag
  t=re.sub(r'<img\b[^>]*>',image,t);path.write_text(t)
-# Sitemap contains only canonical, indexable pages present in the package.
-urls=[]
-for path in sorted(R.rglob('index.html')):
- t=path.read_text()
- if re.search(r'<meta[^>]+content="[^"]*noindex',t,re.I):continue
- m=re.search(r'<link rel="canonical" href="([^"]+)"',t)
- if m:urls.append(m[1])
-assert len(urls)==len(set(urls))
-(R/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+esc(u)+'</loc></url>' for u in urls)+'</urlset>')
-print(f'Updated {len(products)} products, 32 detail pages, {len(urls)} sitemap URLs.')
+# Parse canonical attributes independently of HTML attribute ordering.
+from maintain_seo import write_sitemap
+write_sitemap(R)
 
 # Generated dimensions keep JS-rendered cards consistent with static HTML.
 dimensions={p['image']:list(Image.open(R/p['image']).size) for p in products}
@@ -109,7 +108,23 @@ app=R/'app.js';js=app.read_text()
 js=re.sub(r'const productImageSizes=.*?;\n','',js)
 js='const productImageSizes='+dump(dimensions)+';\n'+js
 js=js.replace('alt="${p[lang]}" loading="lazy">','alt="${p[lang]}" loading="lazy" width="${productImageSizes[p.image][0]}" height="${productImageSizes[p.image][1]}">')
-app.write_text(js)
+# Inquiry app.js is read-only; do not rewrite it during generation.
 
 from build_configurations import build
 build(R)
+
+from build_seo_copy import build as build_seo_copy
+build_seo_copy(R)
+
+from polish_static import build as polish_static
+polish_static(R)
+
+from enhance_seo import build as enhance_seo
+enhance_seo(R)
+
+# Reapply maintained product buying copy after rebuilding static pages.
+import runpy
+runpy.run_path(str(R/'scripts/refine-buyer-content.py'))
+
+from maintain_seo import build as maintain_seo
+maintain_seo(R)

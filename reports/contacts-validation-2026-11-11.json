@@ -1,0 +1,77 @@
+{
+  "homepage_contacts": [
+    {
+      "page": "/es/",
+      "visible_links": {
+        "email": 2,
+        "facebook": 2,
+        "messenger": 2,
+        "instagram": 2
+      },
+      "literal_occurrences_in_html": {
+        "email": 6,
+        "facebook": 3,
+        "messenger": 2,
+        "instagram": 3
+      },
+      "json_ld": {
+        "organization_email": 1,
+        "sales_email": 1,
+        "facebook_sameAs": 1,
+        "instagram_sameAs": 1,
+        "messenger_sameAs": 0,
+        "telephone": "+86 19883954016"
+      }
+    },
+    {
+      "page": "/",
+      "visible_links": {
+        "email": 2,
+        "facebook": 2,
+        "messenger": 2,
+        "instagram": 2
+      },
+      "literal_occurrences_in_html": {
+        "email": 6,
+        "facebook": 3,
+        "messenger": 2,
+        "instagram": 3
+      },
+      "json_ld": {
+        "organization_email": 1,
+        "sales_email": 1,
+        "facebook_sameAs": 1,
+        "instagram_sameAs": 1,
+        "messenger_sameAs": 0,
+        "telephone": "+86 19883954016"
+      }
+    }
+  ],
+  "html_pages_with_contacts": [
+    "es/index.html",
+    "index.html"
+  ],
+  "inline_icons": 16,
+  "json_ld_blocks_parsed": 86,
+  "obsolete_facebook_id_files": [],
+  "dist": "not present; Netlify publishes the site root",
+  "external_asset_references": [
+    {
+      "page_or_css": "style.css",
+      "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700&family=Manrope:wght@400;500;600;650;700;750;800&display=swap",
+      "count": 1
+    }
+  ],
+  "new_external_asset_references": 0,
+  "baseline_scope_check": "homepage additions and generator/audit notes only; all other existing files byte-identical",
+  "css_declares_44px_targets_and_22px_icons": true,
+  "errors": [],
+  "unverified": [
+    "浏览器渲染",
+    "手机显示及实际触控区域",
+    "图标实际渲染样子",
+    "运行时网络请求",
+    "外链账号可达性",
+    "线上部署"
+  ]
+}

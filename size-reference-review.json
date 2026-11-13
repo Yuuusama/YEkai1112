@@ -1,0 +1,98 @@
+[
+  {
+    "productId": 10,
+    "form": "曲丝杯刷",
+    "diameters_mm": [
+      65,
+      75,
+      85,
+      100,
+      125,
+      150
+    ],
+    "sources": [
+      "http://gb.nipb.com/product_detail/45.html",
+      "http://gb.nipb.com/product_detail/46.html"
+    ],
+    "confirmation": "Frank confirmed same-size production capability on 2026-11-09; other specifications not imported."
+  },
+  {
+    "productId": 8,
+    "form": "扭结杯刷",
+    "diameters_mm": [
+      65,
+      75,
+      80,
+      90,
+      100,
+      110,
+      125,
+      150
+    ],
+    "sources": [
+      "http://gb.nipb.com/product_detail/49.html",
+      "http://gb.nipb.com/product_detail/50.html",
+      "http://gb.nipb.com/product_detail/51.html"
+    ],
+    "confirmation": "Frank confirmed same-size production capability on 2026-11-09; other specifications not imported."
+  },
+  {
+    "productId": 2,
+    "form": "扭结斜角刷",
+    "diameters_mm": [
+      100,
+      115,
+      125
+    ],
+    "sources": [
+      "http://gb.nipb.com/product_detail/53.html"
+    ],
+    "confirmation": "Frank confirmed same-size production capability on 2026-11-09; other specifications not imported."
+  },
+  {
+    "productId": 7,
+    "form": "台式轮刷系列",
+    "diameters_mm": [
+      100,
+      125,
+      150,
+      178,
+      200,
+      250,
+      300
+    ],
+    "sources": [
+      "http://gb.nipb.com/product_detail/44.html"
+    ],
+    "confirmation": "Frank confirmed same-size production capability on 2026-11-09; other specifications not imported."
+  },
+  {
+    "productId": 5,
+    "form": "扭结端刷",
+    "diameters_mm": [
+      19,
+      22,
+      25,
+      30
+    ],
+    "sources": [
+      "http://gb.nipb.com/product_detail/52.html"
+    ],
+    "confirmation": "Frank confirmed same-size production capability on 2026-11-09; other specifications not imported."
+  },
+  {
+    "productId": 5,
+    "form": "曲丝端刷",
+    "diameters_mm": [
+      16,
+      19,
+      22,
+      25,
+      30
+    ],
+    "sources": [
+      "http://gb.nipb.com/product_detail/52.html"
+    ],
+    "confirmation": "Frank confirmed same-size production capability on 2026-11-09; other specifications not imported."
+  }
+]

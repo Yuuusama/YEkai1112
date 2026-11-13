@@ -1,0 +1,98 @@
+{
+  "1": [
+    "How do I specify an abrasive filament brush?",
+    "Send the brush shape, outside diameter, workpiece material and desired finish. Add the abrasive type and grit if known. Frank will confirm the matching model and packing.",
+    "¿Cómo especifico un cepillo de filamento abrasivo?",
+    "Indica la forma, el diámetro exterior, el material de la pieza y el acabado que buscas. Añade el tipo de abrasivo y grano si los conoces. Frank confirmará el modelo y el empaque."
+  ],
+  "2": [
+    "Is this a flat wheel or a bevel brush?",
+    "This product is the outward-angled bevel style. Include the selected diameter and a photo of your mounting connection when requesting a quote; a flat radial wheel is a different brush profile.",
+    "¿Es un cepillo plano o cónico?",
+    "Este producto tiene un perfil cónico, con haces inclinados hacia afuera. Para cotizar, indica el diámetro elegido y envía una foto del montaje; el cepillo circular plano tiene otro perfil."
+  ],
+  "3": [
+    "What should I send to match a coated-wire brush?",
+    "Send a front and side photo, outside diameter, working width and bore or thread. State the wire material you require; coating color alone is not enough to identify the material.",
+    "¿Qué información ayuda a identificar un cepillo de alambre recubierto?",
+    "Envía fotos de frente y de lado, diámetro exterior, ancho de trabajo y orificio o rosca. Especifica el material del alambre; el color del recubrimiento no basta para identificarlo."
+  ],
+  "4": [
+    "How do I order the banded cup style?",
+    "Specify that you need a retaining band and include a side photo of the brush. List cup diameter, thread and quantity separately for each model so the banded and unbanded versions are not mixed.",
+    "¿Cómo pido la copa con aro?",
+    "Indica que necesitas aro de retención y adjunta una foto lateral. Separa diámetro, rosca y cantidad por modelo para no confundir las versiones con y sin aro."
+  ],
+  "10": [
+    "Can I quote several crimped cup sizes together?",
+    "Yes. List the quantity for each diameter and the thread needed for each size. Ask Frank to confirm wire material, wire diameter and packing for each configuration.",
+    "¿Puedo cotizar varias medidas de copa ondulada?",
+    "Sí. Indica la cantidad de cada diámetro y la rosca de cada medida. Consulta a Frank para confirmar material, calibre del alambre y empaque por configuración."
+  ],
+  "8": [
+    "What information is needed for a knotted cup quote?",
+    "Choose the cup diameter, then specify thread, quantity and packaging. If you are replacing an existing item, include its label and side photo so Frank can match the cup construction.",
+    "¿Qué datos necesito para cotizar una copa trenzada?",
+    "Elige el diámetro e indica rosca, cantidad y empaque. Si buscas reemplazar un producto, envía su etiqueta y una foto lateral para que Frank identifique la construcción de la copa."
+  ],
+  "5": [
+    "How do I distinguish a mounted wheel, cup and end brush?",
+    "State the head shape as well as its diameter. Include shank diameter and required access space. An end-brush diameter refers to its head, not the shank; list both dimensions in your request.",
+    "¿Cómo distingo un cepillo circular, de copa y de punta con vástago?",
+    "Indica la forma y el diámetro del cabezal, además del diámetro del vástago y el espacio de acceso. El diámetro de un cepillo de punta corresponde al cabezal, no al vástago; especifica ambas medidas."
+  ],
+  "6": [
+    "What details are needed for a hand-brush order?",
+    "Send overall length, handle style, wire material and quantity. A front and side photo of the item you currently sell helps Frank identify the brush and packaging you need.",
+    "¿Qué datos se necesitan para pedir un cepillo manual?",
+    "Envía largo total, tipo de mango, material del alambre y cantidad. Una foto de frente y de lado del producto que vendes ayuda a Frank a identificar el cepillo y el empaque."
+  ],
+  "7": [
+    "Is outside diameter enough to match a wheel brush?",
+    "No. Include working width, bore and machine details as well. State the exact metric or inch size you need; do not assume that similarly named sizes share the same bore or rated speed.",
+    "¿Basta el diámetro exterior para identificar un cepillo circular?",
+    "No. Indica también ancho de trabajo, orificio y equipo. Especifica la medida exacta en milímetros o pulgadas; medidas parecidas no implican el mismo orificio ni las mismas RPM permitidas."
+  ],
+  "9": [
+    "What should I specify for a stringer wheel?",
+    "Include wheel diameter, working width, mounting bore and the weld area you need to reach. Send a photo of the current brush if you need the same narrow-bundle construction.",
+    "¿Qué debo indicar para un disco de trenzado estrecho?",
+    "Incluye diámetro, ancho de trabajo, orificio de montaje y zona de soldadura que necesitas alcanzar. Envía una foto si buscas la misma construcción de haces estrechos."
+  ],
+  "28": [
+    "How do I confirm a wire trimmer head will fit?",
+    "Send the machine make and model, shaft connection, mounting dimensions and a photo of the existing head. Frank must confirm compatibility and rated speed for the selected head before use.",
+    "¿Cómo confirmo que el cabezal sea compatible?",
+    "Envía marca y modelo de la máquina, conexión del eje, medidas del montaje y una foto del cabezal actual. Frank debe confirmar compatibilidad y RPM permitidas antes del uso."
+  ],
+  "29": [
+    "What should I include when choosing three or six bundles?",
+    "Specify bundle count and outside diameter separately, then provide machine and mounting details. Bundle count alone does not establish compatibility with a battery or petrol machine.",
+    "¿Qué debo indicar al elegir tres o seis haces?",
+    "Especifica por separado el número de haces y el diámetro exterior, además de los datos de la máquina y el montaje. El número de haces por sí solo no confirma compatibilidad con un equipo de batería o gasolina."
+  ],
+  "27": [
+    "What details are needed for a flap-disc quote?",
+    "Send outside diameter, bore, grit, workpiece material and backing preference. If matching an existing disc, add a label photo and specify the quantity for each grit.",
+    "¿Qué datos se necesitan para cotizar discos de láminas?",
+    "Indica diámetro exterior, orificio, grano, material de la pieza y respaldo preferido. Para igualar un disco existente, añade una foto de la etiqueta y la cantidad de cada grano."
+  ],
+  "30": [
+    "How do I match the shape of this crimped brush?",
+    "Send front and side photos with outside diameter, face width and mounting dimensions. Confirm whether you need a radial or angled profile before selecting wire and packaging.",
+    "¿Cómo identifico la forma de este cepillo ondulado?",
+    "Envía fotos de frente y de lado con diámetro exterior, ancho y medidas del montaje. Confirma si necesitas perfil radial o inclinado antes de elegir alambre y empaque."
+  ],
+  "31": [
+    "What should I confirm for a nylon trimmer brush?",
+    "Provide head diameter, bore, machine model and intended clearing task. Ask Frank to confirm the filament and mount for the selected head rather than choosing by filament color alone.",
+    "¿Qué debo confirmar para un cepillo de nailon para desbrozadora?",
+    "Indica diámetro del cabezal, orificio, modelo de máquina y trabajo previsto. Consulta a Frank sobre el filamento y montaje de la medida elegida; no selecciones solo por el color."
+  ],
+  "22": [
+    "How do I specify a blister-card assortment?",
+    "List each brush type and size, pieces per card, number of cards and artwork requirements. Send a layout reference so Frank can confirm the assortment and custom packaging quote.",
+    "¿Cómo especifico un juego en blíster?",
+    "Enumera tipos y medidas de cepillo, piezas por tarjeta, número de tarjetas y requisitos del diseño. Envía una referencia de distribución para confirmar el surtido y cotizar el empaque personalizado."
+  ]
+}

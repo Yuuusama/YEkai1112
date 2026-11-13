@@ -1,0 +1,7 @@
+YEKAI — 2026-11-13
+Base: yekai-seo-review-2026-11-11-r2.zip (version 3)
+Offline incremental update; NOT deployed.
+Read CHANGELOG-2026-11-13.md and reports/2026-11-13/.
+Install scripts/requirements.txt before running build scripts.
+
+Email revision: 2026-11-13 r2; frank@yekaifrank.com; not deployed.

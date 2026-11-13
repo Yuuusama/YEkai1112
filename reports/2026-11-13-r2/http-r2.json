@@ -1,0 +1,574 @@
+{
+  "indexable_pages": 44,
+  "unique_titles": 44,
+  "unique_descriptions": 44,
+  "spanish_product_body_counts": [
+    {
+      "url": "/es/products/plastic-handle-hand-brushes/",
+      "body_words_excluding_navigation_forms_tables_links": 395
+    },
+    {
+      "url": "/es/products/banded-twisted-cup-brushes/",
+      "body_words_excluding_navigation_forms_tables_links": 396
+    },
+    {
+      "url": "/es/products/shaft-mounted-wire-wheels/",
+      "body_words_excluding_navigation_forms_tables_links": 515
+    },
+    {
+      "url": "/es/products/wide-crimped-wire-wheels/",
+      "body_words_excluding_navigation_forms_tables_links": 484
+    },
+    {
+      "url": "/es/products/copper-coated-wire-wheels/",
+      "body_words_excluding_navigation_forms_tables_links": 397
+    },
+    {
+      "url": "/es/products/blister-card-brush-sets/",
+      "body_words_excluding_navigation_forms_tables_links": 389
+    },
+    {
+      "url": "/es/products/red-knotted-wire-cup-brush/",
+      "body_words_excluding_navigation_forms_tables_links": 499
+    },
+    {
+      "url": "/es/products/nylon-grass-trimmer-brushes/",
+      "body_words_excluding_navigation_forms_tables_links": 402
+    },
+    {
+      "url": "/es/products/twisted-wire-grass-trimmer-heads/",
+      "body_words_excluding_navigation_forms_tables_links": 415
+    },
+    {
+      "url": "/es/products/crimped-wire-brush-wheels/",
+      "body_words_excluding_navigation_forms_tables_links": 392
+    },
+    {
+      "url": "/es/products/crimped-wire-cup-brushes/",
+      "body_words_excluding_navigation_forms_tables_links": 477
+    },
+    {
+      "url": "/es/products/3-and-6-bundle-wire-trimmer-heads/",
+      "body_words_excluding_navigation_forms_tables_links": 435
+    },
+    {
+      "url": "/es/products/abrasive-flap-discs/",
+      "body_words_excluding_navigation_forms_tables_links": 386
+    },
+    {
+      "url": "/es/products/abrasive-filament-brushes/",
+      "body_words_excluding_navigation_forms_tables_links": 633
+    },
+    {
+      "url": "/es/products/twisted-wire-wheels/",
+      "body_words_excluding_navigation_forms_tables_links": 456
+    },
+    {
+      "url": "/es/products/stringer-knotted-wheels/",
+      "body_words_excluding_navigation_forms_tables_links": 401
+    }
+  ],
+  "local_http_server": "python -m http.server (127.0.0.1:8877)",
+  "http_resources_tested": 98,
+  "http_results": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 52226
+    },
+    {
+      "path": "/about/",
+      "status": 200,
+      "bytes": 4430
+    },
+    {
+      "path": "/abrasive-filament-brush/",
+      "status": 200,
+      "bytes": 6255
+    },
+    {
+      "path": "/abrasive-flap-disc/",
+      "status": 200,
+      "bytes": 6010
+    },
+    {
+      "path": "/app.js",
+      "status": 200,
+      "bytes": 12418
+    },
+    {
+      "path": "/buyer-content.css",
+      "status": 200,
+      "bytes": 286
+    },
+    {
+      "path": "/configuration.css",
+      "status": 200,
+      "bytes": 2253
+    },
+    {
+      "path": "/contact-channels.css",
+      "status": 200,
+      "bytes": 1284
+    },
+    {
+      "path": "/documents/ce-marked-document.pdf",
+      "status": 200,
+      "bytes": 846350
+    },
+    {
+      "path": "/documents/rohs-document.pdf",
+      "status": 200,
+      "bytes": 834825
+    },
+    {
+      "path": "/documents/trimmer-design-patent.pdf",
+      "status": 200,
+      "bytes": 1189256
+    },
+    {
+      "path": "/documents/ul-test-report.pdf",
+      "status": 200,
+      "bytes": 1609655
+    },
+    {
+      "path": "/documents/wire-wheel-patent.pdf",
+      "status": 200,
+      "bytes": 1305418
+    },
+    {
+      "path": "/es/",
+      "status": 200,
+      "bytes": 53273
+    },
+    {
+      "path": "/es/about/",
+      "status": 200,
+      "bytes": 4614
+    },
+    {
+      "path": "/es/abrasive-filament-brush/",
+      "status": 200,
+      "bytes": 6458
+    },
+    {
+      "path": "/es/abrasive-flap-disc/",
+      "status": 200,
+      "bytes": 6186
+    },
+    {
+      "path": "/es/products/3-and-6-bundle-wire-trimmer-heads/",
+      "status": 200,
+      "bytes": 14265
+    },
+    {
+      "path": "/es/products/abrasive-filament-brushes/",
+      "status": 200,
+      "bytes": 30371
+    },
+    {
+      "path": "/es/products/abrasive-flap-discs/",
+      "status": 200,
+      "bytes": 11140
+    },
+    {
+      "path": "/es/products/banded-twisted-cup-brushes/",
+      "status": 200,
+      "bytes": 12685
+    },
+    {
+      "path": "/es/products/blister-card-brush-sets/",
+      "status": 200,
+      "bytes": 11304
+    },
+    {
+      "path": "/es/products/copper-coated-wire-wheels/",
+      "status": 200,
+      "bytes": 11436
+    },
+    {
+      "path": "/es/products/crimped-wire-brush-wheels/",
+      "status": 200,
+      "bytes": 11372
+    },
+    {
+      "path": "/es/products/crimped-wire-cup-brushes/",
+      "status": 200,
+      "bytes": 18068
+    },
+    {
+      "path": "/es/products/nylon-grass-trimmer-brushes/",
+      "status": 200,
+      "bytes": 12340
+    },
+    {
+      "path": "/es/products/plastic-handle-hand-brushes/",
+      "status": 200,
+      "bytes": 11139
+    },
+    {
+      "path": "/es/products/red-knotted-wire-cup-brush/",
+      "status": 200,
+      "bytes": 19667
+    },
+    {
+      "path": "/es/products/shaft-mounted-wire-wheels/",
+      "status": 200,
+      "bytes": 19634
+    },
+    {
+      "path": "/es/products/stringer-knotted-wheels/",
+      "status": 200,
+      "bytes": 12509
+    },
+    {
+      "path": "/es/products/twisted-wire-grass-trimmer-heads/",
+      "status": 200,
+      "bytes": 13345
+    },
+    {
+      "path": "/es/products/twisted-wire-wheels/",
+      "status": 200,
+      "bytes": 15290
+    },
+    {
+      "path": "/es/products/wide-crimped-wire-wheels/",
+      "status": 200,
+      "bytes": 19253
+    },
+    {
+      "path": "/es/steel-wire-wheel-brush/",
+      "status": 200,
+      "bytes": 10719
+    },
+    {
+      "path": "/es/wire-grass-trimmer-head/",
+      "status": 200,
+      "bytes": 7414
+    },
+    {
+      "path": "/images/abrasive-studio.webp",
+      "status": 200,
+      "bytes": 270342
+    },
+    {
+      "path": "/images/catalog/10.webp",
+      "status": 200,
+      "bytes": 165856
+    },
+    {
+      "path": "/images/catalog/11.webp",
+      "status": 200,
+      "bytes": 187742
+    },
+    {
+      "path": "/images/catalog/12.webp",
+      "status": 200,
+      "bytes": 123286
+    },
+    {
+      "path": "/images/catalog/13.webp",
+      "status": 200,
+      "bytes": 153680
+    },
+    {
+      "path": "/images/catalog/14.webp",
+      "status": 200,
+      "bytes": 135896
+    },
+    {
+      "path": "/images/catalog/15.webp",
+      "status": 200,
+      "bytes": 134606
+    },
+    {
+      "path": "/images/catalog/4.webp",
+      "status": 200,
+      "bytes": 200916
+    },
+    {
+      "path": "/images/catalog/5.webp",
+      "status": 200,
+      "bytes": 187716
+    },
+    {
+      "path": "/images/catalog/6.webp",
+      "status": 200,
+      "bytes": 152924
+    },
+    {
+      "path": "/images/catalog/7.webp",
+      "status": 200,
+      "bytes": 135772
+    },
+    {
+      "path": "/images/catalog/8.webp",
+      "status": 200,
+      "bytes": 166866
+    },
+    {
+      "path": "/images/catalog/9.webp",
+      "status": 200,
+      "bytes": 135048
+    },
+    {
+      "path": "/images/copper-studio.webp",
+      "status": 200,
+      "bytes": 355122
+    },
+    {
+      "path": "/images/cup-gray.webp",
+      "status": 200,
+      "bytes": 288608
+    },
+    {
+      "path": "/images/cup-studio.webp",
+      "status": 200,
+      "bytes": 134558
+    },
+    {
+      "path": "/images/evidence/ce-marked-document.webp",
+      "status": 200,
+      "bytes": 125072
+    },
+    {
+      "path": "/images/evidence/exhibition-booth.webp",
+      "status": 200,
+      "bytes": 469292
+    },
+    {
+      "path": "/images/evidence/exhibition-visitors.webp",
+      "status": 200,
+      "bytes": 311826
+    },
+    {
+      "path": "/images/evidence/rohs-document.webp",
+      "status": 200,
+      "bytes": 111462
+    },
+    {
+      "path": "/images/evidence/trimmer-design-patent.webp",
+      "status": 200,
+      "bytes": 44350
+    },
+    {
+      "path": "/images/evidence/ul-test-report.webp",
+      "status": 200,
+      "bytes": 43004
+    },
+    {
+      "path": "/images/evidence/wire-wheel-patent.webp",
+      "status": 200,
+      "bytes": 44684
+    },
+    {
+      "path": "/images/hand-studio.webp",
+      "status": 200,
+      "bytes": 152784
+    },
+    {
+      "path": "/images/hero-studio.webp",
+      "status": 200,
+      "bytes": 234212
+    },
+    {
+      "path": "/images/product-update-1.webp",
+      "status": 200,
+      "bytes": 194292
+    },
+    {
+      "path": "/images/product-update-2.webp",
+      "status": 200,
+      "bytes": 299082
+    },
+    {
+      "path": "/images/product-update-3.webp",
+      "status": 200,
+      "bytes": 230952
+    },
+    {
+      "path": "/images/product-update-4.webp",
+      "status": 200,
+      "bytes": 145832
+    },
+    {
+      "path": "/images/product-update-5.webp",
+      "status": 200,
+      "bytes": 258140
+    },
+    {
+      "path": "/images/product-update-6.webp",
+      "status": 200,
+      "bytes": 180878
+    },
+    {
+      "path": "/images/product-update-7.webp",
+      "status": 200,
+      "bytes": 110312
+    },
+    {
+      "path": "/images/product-update-8.webp",
+      "status": 200,
+      "bytes": 316790
+    },
+    {
+      "path": "/images/product-update-9.webp",
+      "status": 200,
+      "bytes": 144866
+    },
+    {
+      "path": "/images/red-knotted-cup-brush.webp",
+      "status": 200,
+      "bytes": 154754
+    },
+    {
+      "path": "/images/twisted-studio.webp",
+      "status": 200,
+      "bytes": 243038
+    },
+    {
+      "path": "/images/yekai-factory.webp",
+      "status": 200,
+      "bytes": 357518
+    },
+    {
+      "path": "/navigation-fix.css",
+      "status": 200,
+      "bytes": 1138
+    },
+    {
+      "path": "/products.json",
+      "status": 200,
+      "bytes": 8958
+    },
+    {
+      "path": "/products/3-and-6-bundle-wire-trimmer-heads/",
+      "status": 200,
+      "bytes": 13796
+    },
+    {
+      "path": "/products/abrasive-filament-brushes/",
+      "status": 200,
+      "bytes": 29664
+    },
+    {
+      "path": "/products/abrasive-flap-discs/",
+      "status": 200,
+      "bytes": 10551
+    },
+    {
+      "path": "/products/banded-twisted-cup-brushes/",
+      "status": 200,
+      "bytes": 12315
+    },
+    {
+      "path": "/products/blister-card-brush-sets/",
+      "status": 200,
+      "bytes": 10697
+    },
+    {
+      "path": "/products/copper-coated-wire-wheels/",
+      "status": 200,
+      "bytes": 10957
+    },
+    {
+      "path": "/products/crimped-wire-brush-wheels/",
+      "status": 200,
+      "bytes": 10804
+    },
+    {
+      "path": "/products/crimped-wire-cup-brushes/",
+      "status": 200,
+      "bytes": 17576
+    },
+    {
+      "path": "/products/nylon-grass-trimmer-brushes/",
+      "status": 200,
+      "bytes": 11757
+    },
+    {
+      "path": "/products/plastic-handle-hand-brushes/",
+      "status": 200,
+      "bytes": 10617
+    },
+    {
+      "path": "/products/red-knotted-wire-cup-brush/",
+      "status": 200,
+      "bytes": 18998
+    },
+    {
+      "path": "/products/shaft-mounted-wire-wheels/",
+      "status": 200,
+      "bytes": 18996
+    },
+    {
+      "path": "/products/stringer-knotted-wheels/",
+      "status": 200,
+      "bytes": 12009
+    },
+    {
+      "path": "/products/twisted-wire-grass-trimmer-heads/",
+      "status": 200,
+      "bytes": 12787
+    },
+    {
+      "path": "/products/twisted-wire-wheels/",
+      "status": 200,
+      "bytes": 14615
+    },
+    {
+      "path": "/products/wide-crimped-wire-wheels/",
+      "status": 200,
+      "bytes": 18757
+    },
+    {
+      "path": "/quote.js",
+      "status": 200,
+      "bytes": 2605
+    },
+    {
+      "path": "/seo-enhancements.css",
+      "status": 200,
+      "bytes": 1662
+    },
+    {
+      "path": "/site-refinements.css",
+      "status": 200,
+      "bytes": 5733
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "bytes": 5453
+    },
+    {
+      "path": "/steel-wire-wheel-brush/",
+      "status": 200,
+      "bytes": 10163
+    },
+    {
+      "path": "/style.css",
+      "status": 200,
+      "bytes": 23411
+    },
+    {
+      "path": "/upgrade.css",
+      "status": 200,
+      "bytes": 3550
+    },
+    {
+      "path": "/wire-grass-trimmer-head/",
+      "status": 200,
+      "bytes": 6983
+    }
+  ],
+  "errors": [],
+  "unverified": [
+    "Actual browser rendering on desktop/mobile",
+    "Real external WhatsApp opening",
+    "Live Netlify redirect responses",
+    "Search Console submission and indexing",
+    "Certificate product scope",
+    "Hero authenticity against original factory photo"
+  ]
+}

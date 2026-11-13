@@ -1,0 +1,428 @@
+{
+  "pages": {
+    "": [
+      [
+        "Industrial Wire Brush Supplier in China for Buyers",
+        "Industrial Wire Brush Supplier in China",
+        "Source crimped and knotted wire brushes from our Yongkang factory. Compare wheel and cup styles and ask Frank for a wholesale quote."
+      ],
+      [
+        "Fábrica de cepillos de alambre para venta al mayoreo",
+        "Fabricante de cepillos de alambre en China",
+        "Compra cepillos de alambre directo de nuestra fábrica en Yongkang. Compara discos y copas para tu ferretería y solicita a Frank una cotización por volumen."
+      ]
+    ],
+    "about": [
+      [
+        "Wire Brush Factory in Yongkang, China – About Us",
+        "Inside Our Wire Brush Factory in Yongkang",
+        "Meet the Yongkang factory behind YEKAI wire brushes. See our production site, review factory documents and discuss brush specifications with Frank."
+      ],
+      [
+        "Fábrica de cepillos industriales en Yongkang, China",
+        "Conoce nuestra fábrica de cepillos en Yongkang",
+        "Conoce la planta de YEKAI en Yongkang. Revisa fotos y documentos de la fábrica, y consulta con Frank las medidas y el empaque para surtir tu negocio en México."
+      ]
+    ],
+    "steel-wire-wheel-brush": [
+      [
+        "Steel Wire Wheel Brushes for Wholesale Buyers",
+        "Steel Wire Wheel Brushes: Crimped and Knotted Styles",
+        "Compare crimped and knotted steel wire wheel brushes by profile, diameter and mounting bore. Send your specifications and quantity for a factory quote."
+      ],
+      [
+        "Cepillos circulares de alambre de acero al mayoreo",
+        "Cepillos circulares de alambre ondulado y trenzado",
+        "Compara discos de alambre ondulado y trenzado por diámetro, ancho y orificio central. Envía la medida y las piezas que necesitas para cotizar al mayoreo."
+      ]
+    ],
+    "abrasive-filament-brush": [
+      [
+        "Abrasive Filament Brushes for OEM Finishing Tools",
+        "Abrasive Filament Brushes for Surface Finishing",
+        "Compare abrasive filament wheel, cup and shank-mounted brushes by diameter, grit and mount. Ask Frank to match a catalog model to your finishing job."
+      ],
+      [
+        "Cepillos de filamento abrasivo para acabado de metal",
+        "Cepillos de filamento abrasivo para acabado de superficies",
+        "Elige un cepillo de filamento abrasivo de disco, de copa o con vástago. Compara diámetro y grano y pide a Frank el modelo adecuado para el acabado que buscas."
+      ]
+    ],
+    "wire-grass-trimmer-head": [
+      [
+        "Wire Grass Trimmer Heads for Wholesale Orders",
+        "Wire Grass Trimmer Heads by Diameter and Bundle Count",
+        "Compare wire grass trimmer heads by diameter and bundle count. Ask Frank to confirm fit using your machine model and mounting details before a quote."
+      ],
+      [
+        "Cabezales de alambre para desbrozadora al mayoreo",
+        "Cabezales para desbrozadora por diámetro y número de haces",
+        "Compara cabezales de alambre por diámetro y número de haces. Envía el modelo de tu desbrozadora y el tipo de montaje para confirmar la opción y pedir precio."
+      ]
+    ],
+    "abrasive-flap-disc": [
+      [
+        "Abrasive Flap Discs for Wholesale Metal Finishing",
+        "Abrasive Flap Discs for Metal Finishing",
+        "Source abrasive flap discs for metal finishing. Specify the diameter, bore, grit and backing you need and request a factory quote for your wholesale order."
+      ],
+      [
+        "Discos laminados abrasivos para metal al mayoreo",
+        "Discos laminados para desbaste y acabado de metal",
+        "Cotiza discos laminados para trabajar metal. Indica el diámetro exterior, el orificio central, el grano y el respaldo para recibir un precio por volumen."
+      ]
+    ]
+  },
+  "products": {
+    "1": {
+      "alt": [
+        "Radial abrasive filament brush with a metal hub",
+        "Cepillo circular de filamento abrasivo con centro metálico"
+      ],
+      "related": [
+        5
+      ]
+    },
+    "2": {
+      "alt": [
+        "Bevel brush with wire knots angled outward",
+        "Cepillo cónico con haces de alambre trenzado orientados hacia afuera"
+      ],
+      "related": [
+        9,
+        8
+      ]
+    },
+    "3": {
+      "alt": [
+        "Copper-colored wire wheel brush",
+        "Cepillo circular con alambre de color cobrizo"
+      ],
+      "related": [
+        7,
+        10
+      ]
+    },
+    "4": {
+      "alt": [
+        "Banded cup brush with twisted wire bundles",
+        "Cepillo de copa con aro de retención y alambre trenzado"
+      ],
+      "related": [
+        8,
+        10
+      ]
+    },
+    "10": {
+      "alt": [
+        "Red crimped wire cup brush with a threaded nut",
+        "Copa roja de alambre ondulado con tuerca roscada"
+      ],
+      "related": [
+        8,
+        4
+      ]
+    },
+    "8": {
+      "alt": [
+        "Red cup brush with twisted wire knots and a threaded hub",
+        "Copa roja con haces de alambre trenzado y centro roscado"
+      ],
+      "related": [
+        10,
+        4
+      ]
+    },
+    "5": {
+      "alt": [
+        "End, wheel and cup wire brushes with shanks",
+        "Cepillos de punta, circulares y de copa con vástago"
+      ],
+      "related": [
+        22,
+        1
+      ]
+    },
+    "6": {
+      "alt": [
+        "Hand wire brush with a plastic handle",
+        "Cepillo manual de alambre con mango de plástico"
+      ],
+      "related": [
+        22
+      ]
+    },
+    "7": {
+      "alt": [
+        "Two wide crimped wire wheels with center bores",
+        "Dos discos anchos de alambre ondulado con orificio central"
+      ],
+      "related": [
+        3,
+        30
+      ]
+    },
+    "9": {
+      "alt": [
+        "Narrow knotted wire wheel with center mounting hole",
+        "Disco estrecho de alambre trenzado con orificio central"
+      ],
+      "related": [
+        2,
+        7
+      ]
+    },
+    "28": {
+      "alt": [
+        "Two metal trimmer heads with twisted wire bundles",
+        "Dos cabezales metálicos para desbrozadora con haces trenzados"
+      ],
+      "related": [
+        29,
+        31
+      ]
+    },
+    "29": {
+      "alt": [
+        "Trimmer heads with spaced bundles extending from metal hubs",
+        "Cabezales para desbrozadora con haces separados alrededor del centro"
+      ],
+      "related": [
+        28,
+        31
+      ]
+    },
+    "27": {
+      "alt": [
+        "Two blue abrasive flap discs showing flaps and backing",
+        "Dos discos laminados azules que muestran las láminas y el respaldo"
+      ],
+      "related": [
+        1
+      ]
+    },
+    "30": {
+      "alt": [
+        "Crimped wire brush with silver metal hub and center hole",
+        "Cepillo de alambre ondulado con centro metálico plateado"
+      ],
+      "related": [
+        7,
+        10
+      ]
+    },
+    "31": {
+      "alt": [
+        "Two yellow nylon trimmer brushes with metal hubs",
+        "Dos cepillos amarillos de nailon para desbrozadora con centro metálico"
+      ],
+      "related": [
+        28,
+        29
+      ]
+    },
+    "22": {
+      "alt": [
+        "Retail brush sets displayed in blister-card packaging",
+        "Juegos de cepillos en empaque de blíster con tarjeta"
+      ],
+      "related": [
+        5,
+        6
+      ]
+    }
+  },
+  "projectRecord": {
+    "revision": 6,
+    "languages": [
+      "en",
+      "es-MX"
+    ],
+    "workflow": "继续基于最新包离线优化。Frank要求下个月再发布，当前不上传GitHub、不触发Netlify、不自动部署。",
+    "observedQueries": [
+      "industrial wire brush supplier china",
+      "wire brush supplier china",
+      "wire brush wholesale china",
+      "abrasive wire brush export china"
+    ],
+    "landingPageVerifiedInGSC": false,
+    "editorialBacklog": [
+      [
+        "crimped-vs-knotted-wire-brushes",
+        "Crimped vs. Knotted Wire Brushes",
+        "Cepillos ondulados o trenzados: qué surtir en tu ferretería"
+      ],
+      [
+        "wire-cup-brush-sizes",
+        "Wire Cup Brush Sizes",
+        "Cómo especificar una copa de alambre por diámetro y rosca"
+      ],
+      [
+        "wire-brush-materials",
+        "Wire Brush Materials",
+        "Cómo distinguir acero al carbono, inoxidable y alambre recubierto"
+      ],
+      [
+        "abrasive-filament-brush-grit",
+        "Abrasive Filament Brush Grit",
+        "Cómo elegir el grano de un cepillo de filamento abrasivo para una muestra"
+      ],
+      [
+        "wire-wheel-bore-sizes",
+        "Wire Wheel Bore Sizes",
+        "Cómo medir el orificio central de un cepillo circular"
+      ],
+      [
+        "stringer-bead-wire-wheels",
+        "Stringer Bead Wire Wheels",
+        "Qué datos pedir para un disco trenzado para cordones de soldadura"
+      ],
+      [
+        "wire-grass-trimmer-head-sizes",
+        "Wire Grass Trimmer Head Sizes",
+        "Cómo comparar diámetro y número de haces en cabezales para desbrozadora"
+      ],
+      [
+        "abrasive-flap-disc-specifications",
+        "Abrasive Flap Disc Specifications",
+        "Cómo especificar discos laminados para pedidos al mayoreo"
+      ],
+      [
+        "private-label-wire-brush-packaging",
+        "Private Label Wire Brush Packaging",
+        "Empaque de marca propia para cepillos de ferretería"
+      ],
+      [
+        "wholesale-wire-brush-quote-checklist",
+        "Wholesale Wire Brush Quotes",
+        "Qué enviar a fábrica para cotizar cepillos al mayoreo"
+      ]
+    ],
+    "revision5Changes": [
+      "Correct product-specific WhatsApp fallback links in EN/es-MX",
+      "Consolidate duplicate related-product sections",
+      "Add missing intrinsic image dimensions without changing photos"
+    ],
+    "revision6Changes": [
+      "Native bilingual language links",
+      "Four-category navigation and product breadcrumbs",
+      "Eight bilingual category buying guides",
+      "Product-specific meta descriptions from verified copy",
+      "Category card descriptions synced with products.json",
+      "Mobile menu Escape handling and reduced-motion support"
+    ],
+    "learningSources": [
+      "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+      "https://developers.google.com/search/docs/crawling-indexing/links-crawlable",
+      "https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites"
+    ]
+  },
+  "metadataOverrides20261110": {
+    "/products/abrasive-filament-brushes/": {
+      "description": "Abrasive filament brushes: wheel, cup and shank styles. Catalog radial wheels: 75–200 mm. Ask Frank to confirm grit for your workpiece."
+    },
+    "/es/products/abrasive-filament-brushes/": {
+      "description": "Cepillos de filamento abrasivo: circulares, de copa o con vástago. Circulares de catálogo: 75–200 mm. Consulta a Frank sobre el grano."
+    },
+    "/products/twisted-wire-wheels/": {
+      "description": "Twisted wire wheels: bevel brush with angled carbon steel knots, 4, 4.5 or 5 in. Typical wire: 0.5 mm. Ask Frank to confirm wire and mount."
+    },
+    "/es/products/twisted-wire-wheels/": {
+      "description": "Discos de alambre trenzado de 4, 4.5 o 5 pulgadas, con haces inclinados de acero al carbono. Alambre típico: 0.5 mm. Consulta a Frank sobre el montaje."
+    },
+    "/products/copper-coated-wire-wheels/": {
+      "description": "Copper-coated wire wheels for metal preparation. Typical wire: 0.3 mm. Ask Frank to confirm outside diameter, face width and mount."
+    },
+    "/es/products/copper-coated-wire-wheels/": {
+      "description": "Discos de alambre de acero cobrizado para preparar metal. Alambre típico: 0.3 mm. Consulta a Frank sobre diámetro, ancho y montaje."
+    },
+    "/products/banded-twisted-cup-brushes/": {
+      "description": "Banded twisted cup brushes with carbon steel knots, 2.5, 3, 3.5, 4 or 5 in. Ask Frank to confirm the spindle thread for your order."
+    },
+    "/es/products/banded-twisted-cup-brushes/": {
+      "description": "Copas trenzadas con aro de retención y acero al carbono, de 2.5, 3, 3.5, 4 o 5 pulgadas. Consulta a Frank para confirmar la rosca."
+    },
+    "/products/crimped-wire-cup-brushes/": {
+      "description": "Crimped wire cup brushes for broad metal surfaces, 2.5, 3, 4, 5 or 6 in. Ask Frank to confirm wire material and thread for your size."
+    },
+    "/es/products/crimped-wire-cup-brushes/": {
+      "description": "Copas de alambre ondulado para superficies metálicas, de 2.5, 3, 4, 5 o 6 pulgadas. Consulta a Frank sobre el material y la rosca."
+    },
+    "/products/red-knotted-wire-cup-brush/": {
+      "description": "Red knotted wire cup brush with carbon steel knots, 2.5, 3, 4, 5 or 6 in. Ask Frank to confirm cup diameter and spindle thread."
+    },
+    "/es/products/red-knotted-wire-cup-brush/": {
+      "description": "Copa roja de alambre trenzado de acero al carbono, de 2.5, 3, 4, 5 o 6 pulgadas. Consulta a Frank para confirmar diámetro y rosca."
+    },
+    "/products/shaft-mounted-wire-wheels/": {
+      "description": "Shaft-mounted wire wheels, end and cup brushes. Ask Frank to match head shape, head diameter and shank diameter to the item you stock."
+    },
+    "/es/products/shaft-mounted-wire-wheels/": {
+      "description": "Cepillos con vástago: de punta, circulares y de copa. Consulta a Frank para confirmar forma, diámetro del cabezal y medida del vástago."
+    },
+    "/products/plastic-handle-hand-brushes/": {
+      "description": "Plastic-handle hand brushes for manual metal cleaning. Ask Frank to match your brush length and wire fill, or send a photo of your shelf item."
+    },
+    "/es/products/plastic-handle-hand-brushes/": {
+      "description": "Cepillos manuales con mango de plástico para limpiar metal. Consulta a Frank sobre largo y alambre, o envía una foto del modelo que vendes."
+    },
+    "/products/wide-crimped-wire-wheels/": {
+      "description": "Wide crimped wire wheels, 4, 5, 6, 7, 8 or 10 in. Typical wire: 0.3 mm. Ask Frank to confirm working width and center bore."
+    },
+    "/es/products/wide-crimped-wire-wheels/": {
+      "description": "Discos anchos de alambre ondulado de 4, 5, 6, 7, 8 o 10 pulgadas. Alambre típico: 0.3 mm. Consulta a Frank sobre ancho y orificio."
+    },
+    "/products/stringer-knotted-wheels/": {
+      "description": "Stringer knotted wheels with carbon steel knots for weld seams, 4.5, 5, 6 or 7 in. Ask Frank to confirm working width and mounting bore."
+    },
+    "/es/products/stringer-knotted-wheels/": {
+      "description": "Discos trenzados de haces finos para cordones de soldadura, de 4.5, 5, 6 o 7 pulgadas. Consulta a Frank sobre ancho y orificio."
+    },
+    "/products/twisted-wire-grass-trimmer-heads/": {
+      "description": "Twisted wire grass trimmer heads: 6 in with 24 or 30 bundles; 8 in with 30 or 36. Ask Frank to confirm machine compatibility and mount."
+    },
+    "/es/products/twisted-wire-grass-trimmer-heads/": {
+      "description": "Cabezales trenzados para desbrozadora: 6 pulgadas con 24 o 30 haces; 8 pulgadas con 30 o 36. Consulta a Frank sobre compatibilidad y montaje.",
+      "title": "Cabezales trenzados para desbrozadora | YEKAI"
+    },
+    "/products/3-and-6-bundle-wire-trimmer-heads/": {
+      "description": "3- and 6-bundle wire trimmer heads, 150, 180, 200 or 230 mm. Ask Frank to check mounting for your bundle count, diameter and machine model."
+    },
+    "/es/products/3-and-6-bundle-wire-trimmer-heads/": {
+      "description": "Cabezales de alambre de 3 y 6 haces, de 150, 180, 200 o 230 mm. Consulta a Frank sobre el montaje según el diámetro y modelo de máquina."
+    },
+    "/products/abrasive-flap-discs/": {
+      "description": "Abrasive flap discs for metal finishing. Ask Frank to confirm abrasive and backing; send diameter, bore, grit and workpiece material."
+    },
+    "/es/products/abrasive-flap-discs/": {
+      "description": "Discos laminados abrasivos para acabado de metal. Consulta a Frank sobre abrasivo y respaldo; indica diámetro, orificio, grano y material de la pieza."
+    },
+    "/products/crimped-wire-brush-wheels/": {
+      "description": "Crimped wire brush wheels with a metal hub. Send diameter, mounting photo and workpiece details. Ask Frank to confirm wire material and bore."
+    },
+    "/es/products/crimped-wire-brush-wheels/": {
+      "description": "Cepillos circulares de alambre ondulado con centro metálico. Envía diámetro y foto del montaje. Consulta a Frank sobre el alambre y el orificio."
+    },
+    "/products/nylon-grass-trimmer-brushes/": {
+      "description": "Nylon grass trimmer brushes, 6 or 8 in, with rectangular filaments. Reference bore: 22.5 mm. Ask Frank to confirm the head and machine mount."
+    },
+    "/es/products/nylon-grass-trimmer-brushes/": {
+      "description": "Cepillos de nailon para desbrozadora, de 6 y 8 pulgadas. Orificio de referencia: 22.5 mm. Consulta a Frank para confirmar cabezal y montaje."
+    },
+    "/products/blister-card-brush-sets/": {
+      "description": "Blister-card brush sets for retail. Ask Frank for a quote; send brush models, pieces per card and packaging artwork."
+    },
+    "/es/products/blister-card-brush-sets/": {
+      "description": "Juegos de cepillos en blíster con tarjeta. Consulta a Frank para cotizar; indica modelos, piezas por tarjeta y diseño del empaque."
+    },
+    "/": {
+      "description": "Source crimped and knotted wire brushes from our Yongkang factory. Compare wheel and cup styles and ask Frank for a wholesale quote."
+    },
+    "/abrasive-filament-brush/": {
+      "description": "Compare abrasive filament wheel, cup and shank-mounted brushes by diameter, grit and mount. Ask Frank to match a catalog model to your finishing job."
+    },
+    "/wire-grass-trimmer-head/": {
+      "description": "Compare wire grass trimmer heads by diameter and bundle count. Ask Frank to confirm fit using your machine model and mounting details before a quote."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "build_runs": 2,
+  "second_run_changed_files": 0,
+  "protected_files_unchanged": 88,
+  "canonical_language_images_h1_preserved": 44,
+  "indexable_pages": 44,
+  "local_references": 1430,
+  "static_errors": 0,
+  "quote_simulation": {
+    "environment": "Node VM with simulated DOM; no browser/no network",
+    "pages": 32,
+    "configurations": 194,
+    "cases": 290,
+    "failures": 0
+  },
+  "unverified": [
+    "Real browser layout and interactions",
+    "Live HTTP/Netlify routing",
+    "Google indexing and rich-result eligibility"
+  ]
+}
