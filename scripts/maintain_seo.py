@@ -32,7 +32,7 @@ def write_sitemap(root):
   if 'noindex' in meta(text,'robots').lower():continue
   url=canonical(text)
   if url:urls.append(url)
- assert len(urls)==44 and len(set(urls))==44, f'Expected original 44 canonical URLs, got {len(urls)}'
+ assert len(urls)>=44 and len(set(urls))==len(urls), f'Expected at least 44 unique canonical URLs, got {len(urls)}'
  ns='http://www.sitemaps.org/schemas/sitemap/0.9';ET.register_namespace('',ns)
  tree=ET.Element('{'+ns+'}urlset')
  for url in urls:

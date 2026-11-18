@@ -16,7 +16,7 @@ def build(root):
     e.clear();e.append(text)
     for a in ['data-en','data-es']:e.attrs.pop(a,None)
   def wa(name=''):
-   msg=('Hola Frank, quisiera cotizar '+name+'. ¿Me compartes las opciones y condiciones de compra?' if es else 'Hello Frank, please quote '+name+'. Please share the options and order terms.') if name else ('Hola Frank, me interesan los cepillos YEKAI para mi negocio en México. Quisiera una cotización.' if es else 'Hello Frank, I am interested in YEKAI brushes for my business. Please send a quotation.')
+   msg=('Hola Frank, quisiera cotizar '+name+'. ¿Me compartes las opciones y condiciones de compra?' if es else 'Hello Frank, please quote '+name+'. Please share the options and order terms.') if name else ('Hola Frank, me interesan los cepillos YEKAI para mi negocio. Quisiera una cotización.' if es else 'Hello Frank, I am interested in YEKAI brushes for my business. Please send a quotation.')
    return 'https://wa.me/8619883954016?text='+quote(msg)
   def cta(name='',cls='btn'):
    a=s.new_tag('a',href=wa(name),attrs={'class':cls,'target':'_blank','rel':'noopener noreferrer'});a.string=('Cotizar este producto por WhatsApp' if es else 'Quote this product on WhatsApp') if name else label;return a
@@ -32,7 +32,7 @@ def build(root):
     put(s.select_one('.hero-inner > p'),'Discos, copas y cepillos para distribuidores y ferreterías. Fabricamos en Yongkang y cotizamos según tu modelo, cantidad y destino.' if es else 'Wire wheels, cup brushes and brushes for distributors and hardware stores. Made in Yongkang; quotes based on your model, quantity and destination.')
     if not s.select_one('.hero-benefits'):
      ul=s.new_tag('ul',attrs={'class':'hero-benefits'})
-     for text in (['Marca propia / OEM','Pedidos pequeños y muestras','Envío a México (DDP disponible bajo cotización)'] if es else ['Private label / OEM','Small orders and samples','Worldwide export shipping · DDP to Mexico on request']):
+     for text in (['Marca propia / OEM','Pedidos pequeños y muestras','Exportación a todo el mundo · DDP a México bajo cotización'] if es else ['Private label / OEM','Small orders and samples','Worldwide export shipping · DDP to Mexico on request']):
       li=s.new_tag('li');li.string=text;ul.append(li)
      s.select_one('.hero-inner > p').insert_after(ul)
     buttons=s.select_one('.hero-buttons');buttons.clear();buttons.append(cta())
@@ -77,7 +77,7 @@ def build(root):
    for a in s.select('a[href*="wa.me"],a[data-wa],#product-inquiry button,.inquiry button'):
     a['class']=list(dict.fromkeys(a.get('class',[])+['wa-primary']))
    if home:
-    s.select('.hero-benefits li')[-1].string='Envío a México (DDP disponible bajo cotización)' if es else 'Worldwide export shipping · DDP to Mexico on request'
+    s.select('.hero-benefits li')[-1].string='Exportación a todo el mundo · DDP a México bajo cotización' if es else 'Worldwide export shipping · DDP to Mexico on request'
     p=s.select_one('.delivery-options')
     if p:p.string='DDP a México disponible bajo cotización. Muestras antes del pedido a granel.' if es else 'DDP to Mexico available on request. Samples before bulk orders.'
     for p in s.select('#oem p'):

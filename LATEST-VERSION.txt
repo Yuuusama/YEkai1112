@@ -1,3 +1,5 @@
+r17 (2026-11-18): 价目表规格更正，见 CHANGES 第十七节。未部署。
+
 YEKAI — 2026-11-13
 Base: yekai-seo-review-2026-11-11-r2.zip (version 3)
 Offline incremental update; NOT deployed.

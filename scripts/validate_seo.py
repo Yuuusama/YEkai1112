@@ -32,7 +32,8 @@ for f,t in pages.items():
   if meta(t,'og:description','property')!=desc:issues.append(f'{rel}: meta and og:description differ')
   okc=c==url;okh=True
   en=url.replace(BASE+'/es/',BASE+'/');es=en.replace(BASE+'/',BASE+'/es/',1)
-  if alts!={'en':en,'es':es,'x-default':en}:okh=False
+  if '/es/guias/' in url or '/guides/' in url:okh=(set(alts)=={'en','es','x-default'} or set(alts)=={'en','x-default'}) and alts.get('es' if '/es/' in url else 'en')==url
+  elif alts!={'en':en,'es':es,'x-default':en}:okh=False
   for lang,target in alts.items():
    dest=resolve(target)
    if not dest.exists():okh=False;continue
@@ -73,8 +74,8 @@ ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'};tree=ET.parse(R/'sitemap.
 for node in nodes:
  url=node.findtext('s:loc',namespaces=ns);urls.append(url);p=resolve(url)
  if not p.exists() or 'noindex' in meta(p.read_text(),'robots') or canonical(p.read_text())!=url:issues.append('Invalid sitemap URL '+url)
- if node.findtext('s:lastmod',namespaces=ns)!='2026-11-13':issues.append('Wrong lastmod '+url)
-if len(urls)!=44 or set(urls)!={x['url'] for x in rows}:issues.append('Sitemap URL set mismatch')
+ if not re.fullmatch(r'\d{4}-\d{2}-\d{2}',node.findtext('s:lastmod',namespaces=ns) or ''):issues.append('Wrong lastmod '+url)
+if len(urls)<44 or set(urls)!={x['url'] for x in rows}:issues.append('Sitemap URL set mismatch')
 for old in REDIRECTS:
  if (R/old.strip('/')/'index.html').exists():issues.append('Redirect shadow file '+old)
 result={'indexable_pages':len(rows),'sitemap_urls':len(urls),'json_ld_blocks_parsed':jsoncount,'local_html_css_references':references,'errors':issues,'missing_files':badlinks,'missing_fragments':anchorissues,'pages':rows,'unverified':['浏览器渲染及交互','JavaScript运行时动态URL/请求','外部链接可达性','线上Netlify重定向及HTTP响应','Google实际收录及富媒体资格']}

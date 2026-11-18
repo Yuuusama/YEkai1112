@@ -1,0 +1,36 @@
+/* 2026-11-16 guías ES */
+.guide-article{max-width:860px;margin:1.5rem auto 2rem}
+.guide-article a,.yekai-buyer-guide li a{color:#b52b2d;text-decoration:underline;text-underline-offset:3px}
+.guide-article h2{margin-top:2rem}
+.guide-article ul{line-height:1.9;padding-left:1.2rem}
+.guide-table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:15px;table-layout:auto}
+.guide-table th,.guide-table td{border-bottom:1px solid #ddd8d0;padding:10px 12px;text-align:left;vertical-align:top;word-break:normal;overflow-wrap:normal}
+.guide-table thead th{background:#f1eeea}
+#guias ul{line-height:2;padding-left:1.2rem;font-size:17px}
+@media(max-width:640px){.guide-table{font-size:13px}.guide-table th,.guide-table td{padding:8px 6px}}
+.also-known{font-size:15px;color:#4b5560;margin:.4rem 0 1rem}
+.guide-article h3{font-size:18px;margin:1.2rem 0 .3rem}.guide-article ol{line-height:1.9;padding-left:1.3rem}
+#product-faq{margin:2rem 0}#product-faq h3{font-size:18px;margin:1.1rem 0 .3rem}#product-faq a{color:#b52b2d;text-decoration:underline}
+.about-photos{display:grid;grid-template-columns:1.6fr 1fr;gap:12px;margin:1rem 0 1.5rem;max-width:900px}.about-photos img{width:100%;height:320px;object-fit:cover;border-radius:6px}
+.detail-main>ul{line-height:1.9;padding-left:1.2rem;max-width:860px}
+@media(max-width:640px){.about-photos{grid-template-columns:1fr}.about-photos img{height:220px}}
+.detail-main>p a{color:#b52b2d;text-decoration:underline;text-underline-offset:3px}
+.about-photos.three{grid-template-columns:1fr 1fr 1fr}.about-photos.three img{height:260px}@media(max-width:640px){.about-photos.three{grid-template-columns:1fr}}
+.yekai-buyer-guide p a{color:#b52b2d;text-decoration:underline;text-underline-offset:3px}
+.doc-mini-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;max-width:900px;margin:1rem 0}
+.doc-mini{display:flex;flex-direction:column;gap:6px;font-size:13px;color:#1f2a33;text-decoration:none}
+.doc-mini img{width:100%;height:auto;border:1px solid #ddd8d0;border-radius:4px;background:#fff}
+@media(max-width:640px){.doc-mini-grid{grid-template-columns:repeat(2,1fr)}}
+/* 2026-11-18 inicio: guías destacadas en tarjetas */
+.yekai-buyer-guide .guide-cards-lead{color:#667078;margin:0 0 1.2rem}
+.yekai-buyer-guide ul.guide-cards{list-style:none;padding:0!important;margin:0!important;display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.yekai-buyer-guide ul.guide-cards li{margin:0}
+.yekai-buyer-guide a.guide-card{display:flex;flex-direction:column;gap:.55rem;height:100%;box-sizing:border-box;padding:18px 20px;background:#fff;border:1px solid #e5e1dc;color:#101820;text-decoration:none;transition:border-color .15s}
+.yekai-buyer-guide a.guide-card:hover,.yekai-buyer-guide a.guide-card:focus-visible{border-color:#b52b2d}
+.yekai-buyer-guide a.guide-card strong{font-size:1.05rem;line-height:1.35}
+.yekai-buyer-guide a.guide-card span{font-size:.9rem;line-height:1.55;color:#667078;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.yekai-buyer-guide a.guide-card em{font-style:normal;font-size:.9rem;color:#b52b2d;margin-top:auto}
+.yekai-buyer-guide .guide-cards-all{margin:1.4rem 0 0}
+.yekai-buyer-guide .guide-cards-all a.btn{text-decoration:none;color:#fff!important;padding:14px 22px;min-height:0}
+@media(max-width:900px){.yekai-buyer-guide ul.guide-cards{grid-template-columns:1fr 1fr}}
+@media(max-width:560px){.yekai-buyer-guide ul.guide-cards{grid-template-columns:1fr}}

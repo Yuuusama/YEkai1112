@@ -2,8 +2,8 @@
   "1": {
     "source": "https://yekaiabrasives.com/en/products/abrasive-filament-wheel-brushes/",
     "description": {
-      "en": "Compare wheel, cup and shank-mounted brushes for your finishing process. Catalog radial wheels range from 75 to 200 mm. Specify the workpiece and desired finish to confirm the grit for your model.",
-      "es": "Elige un cepillo circular, de copa o con vástago según la pieza y el acabado. Los modelos circulares de catálogo van de 75 a 200 mm. Indica el material que trabajas para confirmar el abrasivo y el grano."
+      "en": "Compare wheel, cup and shank-mounted brushes for your finishing process. Radial wheels range from 100 to 150 mm. Specify the workpiece and desired finish to confirm the grit for your model.",
+      "es": "Elige un cepillo circular, de copa o con vástago según la pieza y el acabado. Los modelos circulares van de 100 a 150 mm. Indica el material que trabajas para confirmar el abrasivo y el grano."
     },
     "specifications": [
       {
@@ -18,12 +18,12 @@
       },
       {
         "en": [
-          "Catalog outside diameters",
-          "Wheel: 75–200 mm; cup: 75–125 mm; mounted wheel: 38–100 mm; mounted cup: 40–80 mm. See individual models below."
+          "Outside diameters",
+          "Cup: 65, 75, 100, 125 mm; arbor-hole wheel: 100, 125, 150 mm; shank wheel: 50, 65, 75, 100 mm; shank cup: 50, 65, 75, 100 mm; end brush: 25, 30 mm."
         ],
         "es": [
-          "Diámetros del catálogo",
-          "Disco: 75–200 mm; copa: 75–125 mm; disco con vástago: 38–100 mm; copa con vástago: 40–80 mm. Consulta los modelos abajo."
+          "Diámetros exteriores",
+          "Copa: 65, 75, 100, 125 mm; disco de orificio: 100, 125, 150 mm; disco con vástago: 50, 65, 75, 100 mm; copa con vástago: 50, 65, 75, 100 mm; cepillo de punta: 25, 30 mm."
         ]
       },
       {
@@ -38,32 +38,32 @@
       },
       {
         "en": [
-          "Catalog grit range",
-          "80–320; available grit and filament diameter must be confirmed for each model."
+          "Grit and filament",
+          "Standard: grit 80, 1.3 mm abrasive nylon filament. On request: grit 60 or 120, and softer or stiffer filament."
         ],
         "es": [
-          "Rango de grano del catálogo",
-          "80–320; confirmar el grano disponible y diámetro del filamento para cada modelo."
+          "Grano y filamento",
+          "Estándar: grano 80, filamento de nailon abrasivo de 1.3 mm. Sobre pedido: grano 60 o 120, y filamento más suave o más rígido."
         ]
       },
       {
         "en": [
           "Mounting",
-          "Listed shank-mounted models: 6 mm shank. Wheel bores and cup threads: ask Frank."
+          "Shank models: 6 mm (1/4\") hex shank. Arbor-hole wheel bore and cup thread: ask Frank."
         ],
         "es": [
           "Montaje",
-          "Modelos con vástago listados: 6 mm. Orificios y roscas de copa: consulta a Frank."
+          "Modelos con vástago: hexagonal de 6 mm (1/4\"). Orificio del disco y rosca de la copa: consulta a Frank."
         ]
       },
       {
         "en": [
-          "Model and packing",
-          "Model-specific quantities and carton dimensions are listed below. Packing changes must be confirmed with the order."
+          "Weight and packing",
+          "Weight, pieces per carton and carton size by model are listed below. Packing changes are confirmed with the order."
         ],
         "es": [
-          "Modelo y empaque",
-          "Cantidades y medidas de caja por modelo indicadas abajo. Los cambios de empaque se confirman con el pedido."
+          "Peso y empaque",
+          "El peso, las piezas por caja y la medida de caja de cada modelo están abajo. Los cambios de empaque se confirman con el pedido."
         ]
       },
       {
@@ -102,8 +102,8 @@
       "es": "Para limpieza, desbarbado o acabado, indica el material de la pieza, el acabado deseado y la máquina. El color del cepillo no identifica por sí solo el abrasivo ni el grano."
     },
     "meta": {
-      "en": "Compare wheel, cup and shank-mounted brushes for your finishing process. Catalog radial wheels range from 75 to 200 mm. Specify the workpiece and desired finish to confirm the grit for your model.",
-      "es": "Elige un cepillo circular, de copa o con vástago según la pieza y el acabado. Los modelos circulares de catálogo van de 75 a 200 mm. Indica el material que trabajas para confirmar el abrasivo y el grano."
+      "en": "Compare wheel, cup and shank-mounted brushes for your finishing process. Radial wheels range from 100 to 150 mm. Specify the workpiece and desired finish to confirm the grit for your model.",
+      "es": "Elige un cepillo circular, de copa o con vástago según la pieza y el acabado. Los modelos circulares van de 100 a 150 mm. Indica el material que trabajas para confirmar el abrasivo y el grano."
     },
     "catalogSource": "images/catalog/11.webp",
     "catalogModels": [
@@ -289,32 +289,32 @@
       },
       {
         "en": [
-          "Typical wire diameter",
-          "0.5 mm; confirm for the selected model."
+          "Wire diameter",
+          "0.5 mm (all knotted/twisted wire models)"
         ],
         "es": [
-          "Diámetro típico del alambre",
-          "0.5 mm; confirmar para el modelo elegido."
+          "Calibre (diámetro del alambre)",
+          "0.5 mm (todos los modelos de alambre trenzado)"
         ]
       },
       {
         "en": [
           "Series outside diameters",
-          "4, 4.5, 5 inches"
+          "4\" (100 mm), 4.5\" (115 mm), 5\" (125 mm)"
         ],
         "es": [
           "Diámetros exteriores de la serie",
-          "4, 4.5, 5 pulgadas"
+          "4\" (100 mm), 4.5\" (115 mm), 5\" (125 mm)"
         ]
       },
       {
         "en": [
           "Brush profile",
-          "Outward-angled bevel profile"
+          "Outward-angled bevel profile; knotted or crimped wire"
         ],
         "es": [
           "Perfil del cepillo",
-          "Cónico, con haces orientados hacia afuera"
+          "Perfil cónico hacia afuera; alambre trenzado u ondulado"
         ]
       }
     ],
@@ -346,12 +346,12 @@
       },
       {
         "en": [
-          "Typical wire diameter",
-          "0.3 mm; confirm for the selected model."
+          "Wire diameter",
+          "0.3 mm (all crimped wire models)"
         ],
         "es": [
-          "Diámetro típico del alambre",
-          "0.3 mm; confirmar para el modelo elegido."
+          "Calibre (diámetro del alambre)",
+          "0.3 mm (todos los modelos de alambre ondulado)"
         ]
       }
     ],
@@ -383,22 +383,22 @@
       },
       {
         "en": [
-          "Typical wire diameter",
-          "0.5 mm; confirm for the selected model."
+          "Wire diameter",
+          "0.5 mm (all knotted/twisted wire models)"
         ],
         "es": [
-          "Diámetro típico del alambre",
-          "0.5 mm; confirmar para el modelo elegido."
+          "Calibre (diámetro del alambre)",
+          "0.5 mm (todos los modelos de alambre trenzado)"
         ]
       },
       {
         "en": [
           "Series outside diameters",
-          "2.5, 3, 3.5, 4, 5 in"
+          "2.5\" (65 mm), 3\" (75 mm), 3.5\" (85 mm), 4\" (100 mm), 5\" (125 mm)"
         ],
         "es": [
           "Diámetros exteriores de la serie",
-          "2.5, 3, 3.5, 4, 5 pulgadas"
+          "2.5\" (65 mm), 3\" (75 mm), 3.5\" (85 mm), 4\" (100 mm), 5\" (125 mm)"
         ]
       }
     ],
@@ -420,22 +420,22 @@
     "specifications": [
       {
         "en": [
-          "Typical wire diameter",
-          "0.3 mm; confirm for the selected model."
+          "Wire diameter",
+          "0.3 mm (all crimped wire models)"
         ],
         "es": [
-          "Diámetro típico del alambre",
-          "0.3 mm; confirmar para el modelo elegido."
+          "Calibre (diámetro del alambre)",
+          "0.3 mm (todos los modelos de alambre ondulado)"
         ]
       },
       {
         "en": [
           "Series outside diameters",
-          "2.5, 3, 4, 5, 6 in"
+          "2.5\" (65 mm), 3\" (75 mm), 4\" (100 mm), 5\" (125 mm), 6\" (150 mm)"
         ],
         "es": [
           "Diámetros exteriores de la serie",
-          "2.5, 3, 4, 5, 6 pulgadas"
+          "2.5\" (65 mm), 3\" (75 mm), 4\" (100 mm), 5\" (125 mm), 6\" (150 mm)"
         ]
       },
       {
@@ -477,22 +477,22 @@
       },
       {
         "en": [
-          "Typical wire diameter",
-          "0.5 mm; confirm for the selected model."
+          "Wire diameter",
+          "0.5 mm (all knotted/twisted wire models)"
         ],
         "es": [
-          "Diámetro típico del alambre",
-          "0.5 mm; confirmar para el modelo elegido."
+          "Calibre (diámetro del alambre)",
+          "0.5 mm (todos los modelos de alambre trenzado)"
         ]
       },
       {
         "en": [
           "Series outside diameters",
-          "2.5, 3, 4, 5, 6 in"
+          "2.5\" (65 mm), 3\" (75 mm), 4\" (100 mm), 5\" (125 mm), 6\" (150 mm); 3.5\" (90 mm) on request"
         ],
         "es": [
           "Diámetros exteriores de la serie",
-          "2.5, 3, 4, 5, 6 pulgadas"
+          "2.5\" (65 mm), 3\" (75 mm), 4\" (100 mm), 5\" (125 mm), 6\" (150 mm); 3.5\" (90 mm) bajo pedido"
         ]
       }
     ],
@@ -515,11 +515,11 @@
       {
         "en": [
           "Brush shapes",
-          "End, wheel and cup"
+          "Wheel (38–100 mm), cup (38–100 mm) and end brush (10–30 mm); crimped copper-coated or black steel wire, 0.3 mm"
         ],
         "es": [
           "Formas",
-          "Punta, disco y copa"
+          "Circular (38–100 mm), copa (38–100 mm) y de punta (10–30 mm); alambre ondulado cobrizado o negro, calibre 0.3 mm"
         ]
       }
     ],
@@ -562,28 +562,28 @@
   "7": {
     "source": "https://yekaiabrasives.com/en/products/crimped-wire-wheel-brush/",
     "description": {
-      "en": "Choose a wide-face radial wheel in 4, 5, 6, 7, 8 or 10 in. Specify the working width and center bore for cleaning metal parts. Typical series wire diameter is 0.3 mm.",
-      "es": "Elige un disco ancho de 4, 5, 6, 7, 8 o 10 pulgadas para limpiar piezas metálicas. Especifica el ancho de trabajo y el orificio central. El alambre típico de la serie mide 0.3 mm."
+      "en": "Choose a wide-face radial wheel in 4, 5, 6, 7, 8, 10 or 12 in. Specify the working width and center bore for cleaning metal parts. Typical series wire diameter is 0.3 mm.",
+      "es": "Elige un disco ancho de 4, 5, 6, 7, 8, 10 o 12 pulgadas para limpiar piezas metálicas. Especifica el ancho de trabajo y el barreno (orificio central). El alambre típico de la serie mide 0.3 mm."
     },
     "specifications": [
       {
         "en": [
           "Series outside diameters",
-          "4, 5, 6, 7, 8, 10 in"
+          "4\" (100 mm), 5\" (125 mm), 6\" (150 mm), 7\" (175 mm), 8\" (200 mm), 10\" (250 mm), 12\" (300 mm)"
         ],
         "es": [
           "Diámetros exteriores de la serie",
-          "4, 5, 6, 7, 8, 10 pulgadas"
+          "4\" (100 mm), 5\" (125 mm), 6\" (150 mm), 7\" (175 mm), 8\" (200 mm), 10\" (250 mm), 12\" (300 mm)"
         ]
       },
       {
         "en": [
-          "Typical wire diameter",
-          "0.3 mm; confirm for the selected model."
+          "Wire diameter",
+          "0.3 mm (all crimped wire models)"
         ],
         "es": [
-          "Diámetro típico del alambre",
-          "0.3 mm; confirmar para el modelo elegido."
+          "Calibre (diámetro del alambre)",
+          "0.3 mm (todos los modelos de alambre ondulado)"
         ]
       },
       {
@@ -602,15 +602,15 @@
       "es": "Al sustituir un cepillo de esmeril de banco, indica modelo de máquina, diámetro del eje y espacio disponible. El diámetro exterior no determina el orificio ni las RPM permitidas."
     },
     "meta": {
-      "en": "Choose a wide-face radial wheel in 4, 5, 6, 7, 8 or 10 in. Specify the working width and center bore for cleaning metal parts. Typical series wire diameter is 0.3 mm.",
-      "es": "Elige un disco ancho de 4, 5, 6, 7, 8 o 10 pulgadas para limpiar piezas metálicas. Especifica el ancho de trabajo y el orificio central. El alambre típico de la serie mide 0.3 mm."
+      "en": "Choose a wide-face radial wheel in 4, 5, 6, 7, 8, 10 or 12 in. Specify the working width and center bore for cleaning metal parts. Typical series wire diameter is 0.3 mm.",
+      "es": "Elige un disco ancho de 4, 5, 6, 7, 8, 10 o 12 pulgadas para limpiar piezas metálicas. Especifica el ancho de trabajo y el barreno (orificio central). El alambre típico de la serie mide 0.3 mm."
     }
   },
   "9": {
     "source": "https://yekaiabrasives.com/en/products/twist-knot-wire-wheel-brush/",
     "description": {
-      "en": "Narrow carbon steel knots work along weld seams. Choose a fine-bundle wheel in 4.5, 5, 6 or 7 in and specify the working width and mounting bore.",
-      "es": "Los haces estrechos de acero al carbono permiten limpiar a lo largo del cordón de soldadura. Elige un disco de 4.5, 5, 6 o 7 pulgadas e indica el ancho de trabajo y el orificio central."
+      "en": "Narrow carbon steel knots work along weld seams. Choose a fine-bundle wheel in 4, 4.5, 5, 6, 7 or 8 in and specify the working width and mounting bore.",
+      "es": "Los haces estrechos de acero al carbono permiten limpiar a lo largo del cordón de soldadura. Elige un disco de 4, 4.5, 5, 6, 7 u 8 pulgadas e indica el ancho de trabajo y el barreno (orificio central)."
     },
     "specifications": [
       {
@@ -625,22 +625,22 @@
       },
       {
         "en": [
-          "Typical wire diameter",
-          "0.5 mm; confirm for the selected model."
+          "Wire diameter",
+          "0.5 mm (all knotted/twisted wire models)"
         ],
         "es": [
-          "Diámetro típico del alambre",
-          "0.5 mm; confirmar para el modelo elegido."
+          "Calibre (diámetro del alambre)",
+          "0.5 mm (todos los modelos de alambre trenzado)"
         ]
       },
       {
         "en": [
           "Series outside diameters",
-          "Fine-bundle range: 4.5, 5, 6, 7 in"
+          "4\" (100 mm), 4.5\" (115 mm), 5\" (125 mm), 6\" (150 mm), 7\" (175 mm), 8\" (200 mm)"
         ],
         "es": [
           "Diámetros exteriores de la serie",
-          "Gama de haces finos: 4.5, 5, 6, 7 pulgadas"
+          "4\" (100 mm), 4.5\" (115 mm), 5\" (125 mm), 6\" (150 mm), 7\" (175 mm), 8\" (200 mm)"
         ]
       }
     ],
@@ -649,15 +649,15 @@
       "es": "Para trabajos alrededor de soldaduras o zonas estrechas, describe el acceso disponible y acabado deseado. Confirma que el perfil de haces y ancho sean adecuados antes de pedir."
     },
     "meta": {
-      "en": "Narrow carbon steel knots work along weld seams. Choose a fine-bundle wheel in 4.5, 5, 6 or 7 in and specify the working width and mounting bore.",
-      "es": "Los haces estrechos de acero al carbono permiten limpiar a lo largo del cordón de soldadura. Elige un disco de 4.5, 5, 6 o 7 pulgadas e indica el ancho de trabajo y el orificio central."
+      "en": "Narrow carbon steel knots work along weld seams. Choose a fine-bundle wheel in 4, 4.5, 5, 6, 7 or 8 in and specify the working width and mounting bore.",
+      "es": "Los haces estrechos de acero al carbono permiten limpiar a lo largo del cordón de soldadura. Elige un disco de 4, 4.5, 5, 6, 7 u 8 pulgadas e indica el ancho de trabajo y el barreno (orificio central)."
     }
   },
   "28": {
     "source": "https://yekaiabrasives.com/en/products/grass-cutting-wheel/",
     "description": {
-      "en": "Choose a 6 in carbon steel head with 24 or 30 bundles, or an 8 in head with 30 or 36 bundles. Send the machine model and mounting details to confirm compatibility before ordering.",
-      "es": "La serie de acero al carbono incluye cabezales de 6 pulgadas con 24 o 30 haces y de 8 pulgadas con 30 o 36. Envía el modelo de tu desbrozadora y el tipo de montaje para confirmar la compatibilidad."
+      "en": "Choose a 6 in carbon steel head with 24 or 30 bundles, or an 8 in head with 24, 30 or 36 bundles. Send the machine model and mounting details to confirm compatibility before ordering.",
+      "es": "La serie de acero al carbono incluye cabezales de 6 pulgadas con 24 o 30 haces y de 8 pulgadas con 24, 30 o 36. Envía el modelo de tu desbrozadora y el tipo de montaje para confirmar la compatibilidad."
     },
     "specifications": [
       {
@@ -676,18 +676,18 @@
           "0.5 mm"
         ],
         "es": [
-          "Diámetro del alambre",
+          "Calibre (diámetro del alambre)",
           "0.5 mm"
         ]
       },
       {
         "en": [
           "Series outside diameters",
-          "Published combinations: 6 in / 24 bundles; 6 in / 30; 8 in / 30; 8 in / 36. Other combinations require confirmation."
+          "6 in: 24 or 30 knots; 8 in: 24, 30 or 36 knots; 25.4 mm bore"
         ],
         "es": [
           "Diámetros exteriores de la serie",
-          "Combinaciones publicadas: 6 pulgadas / 24 haces; 6 / 30; 8 / 30; 8 / 36. Otras combinaciones requieren confirmación."
+          "6 pulgadas: 24 o 30 haces; 8 pulgadas: 24, 30 o 36 haces; barreno de 25.4 mm"
         ]
       }
     ],
@@ -696,8 +696,8 @@
       "es": "El número de haces corresponde al disco completo. Envía modelo de máquina y orificio requerido. Las marcas del producto no sustituyen la confirmación de RPM seguras y compatibilidad por modelo."
     },
     "meta": {
-      "en": "Choose a 6 in carbon steel head with 24 or 30 bundles, or an 8 in head with 30 or 36 bundles. Send the machine model and mounting details to confirm compatibility before ordering.",
-      "es": "La serie de acero al carbono incluye cabezales de 6 pulgadas con 24 o 30 haces y de 8 pulgadas con 30 o 36. Envía el modelo de tu desbrozadora y el tipo de montaje para confirmar la compatibilidad."
+      "en": "Choose a 6 in carbon steel head with 24 or 30 bundles, or an 8 in head with 24, 30 or 36 bundles. Send the machine model and mounting details to confirm compatibility before ordering.",
+      "es": "La serie de acero al carbono incluye cabezales de 6 pulgadas con 24 o 30 haces y de 8 pulgadas con 24, 30 o 36. Envía el modelo de tu desbrozadora y el tipo de montaje para confirmar la compatibilidad."
     }
   },
   "29": {
@@ -720,17 +720,17 @@
       {
         "en": [
           "Bundle count",
-          "3 or 6 total bundles per head"
+          "3 or 6 twisted bundles per head; 0.5 mm wire"
         ],
         "es": [
           "Número de haces",
-          "3 o 6 haces en total por cabezal"
+          "3 o 6 haces trenzados por cabezal; calibre 0.5 mm"
         ]
       }
     ],
     "buyingNotes": {
-      "en": "The factory describes this range for handheld cordless trimmers. Confirm the particular machine and connection; do not assume universal fit or compatibility with petrol-powered equipment.",
-      "es": "La fábrica describe esta gama para desbrozadoras inalámbricas de mano. Confirma máquina y conexión; no se presupone ajuste universal ni compatibilidad con equipos a gasolina."
+      "en": "Two bore sizes: 5.5 mm for battery (cordless) trimmers and 25.4 mm for petrol brush cutters. Send the machine model and bore size to confirm the fit; there is no universal fit.",
+      "es": "Hay dos orificios: 5.5 mm para desbrozadoras de batería (inalámbricas) y 25.4 mm para desbrozadoras a gasolina. Envía el modelo de la máquina y la medida del orificio para confirmar el montaje; no hay ajuste universal."
     },
     "meta": {
       "en": "Compare three- and six-bundle heads in 150, 180, 200 and 230 mm diameters. Specify the bundle count, diameter and machine model so Frank can check the mounting requirements.",
@@ -774,11 +774,11 @@
       {
         "en": [
           "Wire construction",
-          "Crimped wire"
+          "Crimped wire, 0.3 mm"
         ],
         "es": [
           "Construcción del alambre",
-          "Alambre ondulado"
+          "Alambre ondulado, calibre 0.3 mm"
         ]
       }
     ],
@@ -794,8 +794,8 @@
   "31": {
     "source": "https://yekaiabrasives.com/en/products/nylon-filament-grass-cutting-wheel/",
     "description": {
-      "en": "These 6 and 8 in heads use rectangular nylon filaments. The series lists a 22.5 mm bore. Send the machine model and intended clearing application to confirm the head and mount.",
-      "es": "Estos cabezales de 6 y 8 pulgadas llevan filamentos rectangulares de nailon. El orificio de referencia es de 22.5 mm. Indica el modelo de máquina y el trabajo de deshierbe para confirmar el cabezal y el montaje."
+      "en": "These 6 and 8 in heads use rectangular nylon filaments. The series lists a 25.4 mm bore. Send the machine model and intended clearing application to confirm the head and mount.",
+      "es": "Estos cabezales de 6 y 8 pulgadas llevan filamentos rectangulares de nailon. El barreno de referencia es de 25.4 mm. Indica el modelo de máquina y el trabajo de deshierbe para confirmar el cabezal y el montaje."
     },
     "specifications": [
       {
@@ -821,11 +821,11 @@
       {
         "en": [
           "Series mounting bore",
-          "22.5 mm; confirm selected model and equipment fit."
+          "25.4 mm; confirm selected model and equipment fit."
         ],
         "es": [
           "Orificio de la serie",
-          "22.5 mm; confirmar modelo elegido y ajuste al equipo."
+          "25.4 mm; confirmar modelo elegido y ajuste al equipo."
         ]
       }
     ],
@@ -834,8 +834,8 @@
       "es": "Esta serie de nylon estándar es distinta de los cepillos con filamento abrasivo. Confirma montaje, RPM seguras y tarea; las dimensiones de la sección del filamento requieren verificación."
     },
     "meta": {
-      "en": "These 6 and 8 in heads use rectangular nylon filaments. The series lists a 22.5 mm bore. Send the machine model and intended clearing application to confirm the head and mount.",
-      "es": "Estos cabezales de 6 y 8 pulgadas llevan filamentos rectangulares de nailon. El orificio de referencia es de 22.5 mm. Indica el modelo de máquina y el trabajo de deshierbe para confirmar el cabezal y el montaje."
+      "en": "These 6 and 8 in heads use rectangular nylon filaments. The series lists a 25.4 mm bore. Send the machine model and intended clearing application to confirm the head and mount.",
+      "es": "Estos cabezales de 6 y 8 pulgadas llevan filamentos rectangulares de nailon. El barreno de referencia es de 25.4 mm. Indica el modelo de máquina y el trabajo de deshierbe para confirmar el cabezal y el montaje."
     }
   },
   "22": {
